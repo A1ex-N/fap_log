@@ -1,0 +1,7566 @@
+{
+    "1": {
+        "line": 1,
+        "type": "untimed",
+        "time": "??:??",
+        "date": "8",
+        "month": "Oct",
+        "year": "2018",
+        "comment": ""
+    },
+    "2": {
+        "line": 2,
+        "type": "untimed",
+        "time": "??:??",
+        "date": "16",
+        "month": "Oct",
+        "year": "2018",
+        "comment": ""
+    },
+    "3": {
+        "line": 3,
+        "type": "untimed",
+        "time": "??:??",
+        "date": "19",
+        "month": "Oct",
+        "year": "2018",
+        "comment": ""
+    },
+    "4": {
+        "line": 4,
+        "type": "untimed",
+        "time": "??:??",
+        "date": "20",
+        "month": "Oct",
+        "year": "2018",
+        "comment": ""
+    },
+    "5": {
+        "line": 5,
+        "type": "untimed",
+        "time": "??:??",
+        "date": "21",
+        "month": "Oct",
+        "year": "2018",
+        "comment": "I'm not proud of myself"
+    },
+    "6": {
+        "line": 6,
+        "type": "untimed",
+        "time": "??:??",
+        "date": "22",
+        "month": "Oct",
+        "year": "2018",
+        "comment": "I'm fucking addicted"
+    },
+    "7": {
+        "line": 7,
+        "type": "untimed",
+        "time": "??:??",
+        "date": "24",
+        "month": "Oct",
+        "year": "2018",
+        "comment": ""
+    },
+    "8": {
+        "line": 8,
+        "type": "untimed",
+        "time": "00:30",
+        "date": "27",
+        "month": "Oct",
+        "year": "2018",
+        "comment": ""
+    },
+    "9": {
+        "line": 9,
+        "type": "untimed",
+        "time": "00:35",
+        "date": "28",
+        "month": "Oct",
+        "year": "2018",
+        "comment": ""
+    },
+    "10": {
+        "line": 10,
+        "type": "untimed",
+        "time": "1:08",
+        "date": "30",
+        "month": "Oct",
+        "year": "2018",
+        "comment": ""
+    },
+    "11": {
+        "line": 11,
+        "type": "untimed",
+        "time": "00:43",
+        "date": "1",
+        "month": "Nov",
+        "year": "2018",
+        "comment": ""
+    },
+    "12": {
+        "line": 12,
+        "type": "untimed",
+        "time": "1:25",
+        "date": "2",
+        "month": "Nov",
+        "year": "2018",
+        "comment": ""
+    },
+    "13": {
+        "line": 13,
+        "type": "untimed",
+        "time": "1:07",
+        "date": "5",
+        "month": "Nov",
+        "year": "2018",
+        "comment": ""
+    },
+    "14": {
+        "line": 14,
+        "type": "untimed",
+        "time": "1:11",
+        "date": "7",
+        "month": "Nov",
+        "year": "2018",
+        "comment": ""
+    },
+    "15": {
+        "line": 15,
+        "type": "untimed",
+        "time": "12:00",
+        "date": "8",
+        "month": "Nov",
+        "year": "2018",
+        "comment": ""
+    },
+    "16": {
+        "line": 16,
+        "type": "untimed",
+        "time": "1:35",
+        "date": "10",
+        "month": "Nov",
+        "year": "2018",
+        "comment": ""
+    },
+    "17": {
+        "line": 17,
+        "type": "untimed",
+        "time": "1:21",
+        "date": "12",
+        "month": "Nov",
+        "year": "2018",
+        "comment": ""
+    },
+    "18": {
+        "line": 18,
+        "type": "untimed",
+        "time": "1:22",
+        "date": "13",
+        "month": "Nov",
+        "year": "2018",
+        "comment": ""
+    },
+    "19": {
+        "line": 19,
+        "type": "untimed",
+        "time": "00:50",
+        "date": "14",
+        "month": "Nov",
+        "year": "2018",
+        "comment": ""
+    },
+    "20": {
+        "line": 20,
+        "type": "untimed",
+        "time": "1:08",
+        "date": "14",
+        "month": "Nov",
+        "year": "2018",
+        "comment": ""
+    },
+    "21": {
+        "line": 21,
+        "type": "untimed",
+        "time": "1:20",
+        "date": "15",
+        "month": "Nov",
+        "year": "2018",
+        "comment": ""
+    },
+    "22": {
+        "line": 22,
+        "type": "untimed",
+        "time": "1:10",
+        "date": "17",
+        "month": "Nov",
+        "year": "2018",
+        "comment": ""
+    },
+    "23": {
+        "line": 23,
+        "type": "untimed",
+        "time": "14:40",
+        "date": "19",
+        "month": "Nov",
+        "year": "2018",
+        "comment": "No porn was used because i had no internet"
+    },
+    "24": {
+        "line": 24,
+        "type": "untimed",
+        "time": "1:22",
+        "date": "21",
+        "month": "Nov",
+        "year": "2018",
+        "comment": ""
+    },
+    "25": {
+        "line": 25,
+        "type": "untimed",
+        "time": "1:30",
+        "date": "22",
+        "month": "Nov",
+        "year": "2018",
+        "comment": ""
+    },
+    "26": {
+        "line": 26,
+        "type": "untimed",
+        "time": "1:00",
+        "date": "23",
+        "month": "Nov",
+        "year": "2018",
+        "comment": ""
+    },
+    "27": {
+        "line": 27,
+        "type": "untimed",
+        "time": "1:05",
+        "date": "25",
+        "month": "Nov",
+        "year": "2018",
+        "comment": ""
+    },
+    "28": {
+        "line": 28,
+        "type": "untimed",
+        "time": "2:20",
+        "date": "27",
+        "month": "Nov",
+        "year": "2018",
+        "comment": ""
+    },
+    "29": {
+        "line": 29,
+        "type": "untimed",
+        "time": "1:53",
+        "date": "28",
+        "month": "Nov",
+        "year": "2018",
+        "comment": ""
+    },
+    "30": {
+        "line": 30,
+        "type": "untimed",
+        "time": "2:05",
+        "date": "30",
+        "month": "Nov",
+        "year": "2018",
+        "comment": ""
+    },
+    "31": {
+        "line": 31,
+        "type": "untimed",
+        "time": "1:11",
+        "date": "1",
+        "month": "Dec",
+        "year": "2018",
+        "comment": ""
+    },
+    "32": {
+        "line": 32,
+        "type": "untimed",
+        "time": "2:28",
+        "date": "3",
+        "month": "Dec",
+        "year": "2018",
+        "comment": ""
+    },
+    "33": {
+        "line": 33,
+        "type": "untimed",
+        "time": "1:42",
+        "date": "4",
+        "month": "Dec",
+        "year": "2018",
+        "comment": ""
+    },
+    "34": {
+        "line": 34,
+        "type": "timed",
+        "time": "01:01",
+        "date": "05",
+        "month": "Dec",
+        "year": "2018",
+        "duration": "??:??:??",
+        "comment": ""
+    },
+    "35": {
+        "line": 35,
+        "type": "timed",
+        "time": "03:36",
+        "date": "06",
+        "month": "Dec",
+        "year": "2018",
+        "duration": "??:??:??",
+        "comment": ""
+    },
+    "36": {
+        "line": 36,
+        "type": "timed",
+        "time": "03:52",
+        "date": "07",
+        "month": "Dec",
+        "year": "2018",
+        "duration": "3:49:08",
+        "comment": ""
+    },
+    "37": {
+        "line": 37,
+        "type": "timed",
+        "time": "03:43",
+        "date": "08",
+        "month": "Dec",
+        "year": "2018",
+        "duration": "2:58:56",
+        "comment": ""
+    },
+    "38": {
+        "line": 38,
+        "type": "timed",
+        "time": "02:28",
+        "date": "09",
+        "month": "Dec",
+        "year": "2018",
+        "duration": "2:18:03",
+        "comment": ""
+    },
+    "39": {
+        "line": 39,
+        "type": "timed",
+        "time": "02:25",
+        "date": "11",
+        "month": "Dec",
+        "year": "2018",
+        "duration": "2:52:00",
+        "comment": ""
+    },
+    "40": {
+        "line": 40,
+        "type": "timed",
+        "time": "00:58",
+        "date": "12",
+        "month": "Dec",
+        "year": "2018",
+        "duration": "1:21:01",
+        "comment": ""
+    },
+    "41": {
+        "line": 41,
+        "type": "timed",
+        "time": "01:46",
+        "date": "14",
+        "month": "Dec",
+        "year": "2018",
+        "duration": "2:56:41",
+        "comment": ""
+    },
+    "42": {
+        "line": 42,
+        "type": "timed",
+        "time": "03:18",
+        "date": "16",
+        "month": "Dec",
+        "year": "2018",
+        "duration": "3:37:00",
+        "comment": ""
+    },
+    "43": {
+        "line": 43,
+        "type": "timed",
+        "time": "02:04",
+        "date": "18",
+        "month": "Dec",
+        "year": "2018",
+        "duration": "2:53:44",
+        "comment": ""
+    },
+    "44": {
+        "line": 44,
+        "type": "timed",
+        "time": "02:03",
+        "date": "19",
+        "month": "Dec",
+        "year": "2018",
+        "duration": "1:32:27",
+        "comment": ""
+    },
+    "45": {
+        "line": 45,
+        "type": "timed",
+        "time": "03:18",
+        "date": "21",
+        "month": "Dec",
+        "year": "2018",
+        "duration": "2:38:23",
+        "comment": ""
+    },
+    "46": {
+        "line": 46,
+        "type": "timed",
+        "time": "02:32",
+        "date": "22",
+        "month": "Dec",
+        "year": "2018",
+        "duration": "2:16:29",
+        "comment": ""
+    },
+    "47": {
+        "line": 47,
+        "type": "timed",
+        "time": "01:24",
+        "date": "23",
+        "month": "Dec",
+        "year": "2018",
+        "duration": "0:48:16",
+        "comment": ""
+    },
+    "48": {
+        "line": 48,
+        "type": "timed",
+        "time": "00:36",
+        "date": "26",
+        "month": "Dec",
+        "year": "2018",
+        "duration": "0:56:33",
+        "comment": ""
+    },
+    "49": {
+        "line": 49,
+        "type": "timed",
+        "time": "01:11",
+        "date": "29",
+        "month": "Dec",
+        "year": "2018",
+        "duration": "1:06:45",
+        "comment": ""
+    },
+    "50": {
+        "line": 50,
+        "type": "timed",
+        "time": "02:58",
+        "date": "01",
+        "month": "Jan",
+        "year": "2019",
+        "duration": "2:15:15",
+        "comment": ""
+    },
+    "51": {
+        "line": 51,
+        "type": "timed",
+        "time": "01:52",
+        "date": "03",
+        "month": "Jan",
+        "year": "2019",
+        "duration": "1:51:19",
+        "comment": ""
+    },
+    "52": {
+        "line": 52,
+        "type": "timed",
+        "time": "02:33",
+        "date": "05",
+        "month": "Jan",
+        "year": "2019",
+        "duration": "2:32:55",
+        "comment": ""
+    },
+    "53": {
+        "line": 53,
+        "type": "timed",
+        "time": "02:03",
+        "date": "06",
+        "month": "Jan",
+        "year": "2019",
+        "duration": "2:20:04",
+        "comment": ""
+    },
+    "54": {
+        "line": 54,
+        "type": "timed",
+        "time": "02:12",
+        "date": "07",
+        "month": "Jan",
+        "year": "2019",
+        "duration": "2:18:17",
+        "comment": ""
+    },
+    "55": {
+        "line": 55,
+        "type": "timed",
+        "time": "02:49",
+        "date": "09",
+        "month": "Jan",
+        "year": "2019",
+        "duration": "1:23:11",
+        "comment": ""
+    },
+    "56": {
+        "line": 56,
+        "type": "timed",
+        "time": "03:01",
+        "date": "11",
+        "month": "Jan",
+        "year": "2019",
+        "duration": "2:33:51",
+        "comment": ""
+    },
+    "57": {
+        "line": 57,
+        "type": "timed",
+        "time": "02:01",
+        "date": "12",
+        "month": "Jan",
+        "year": "2019",
+        "duration": "1:40:02",
+        "comment": ""
+    },
+    "58": {
+        "line": 58,
+        "type": "timed",
+        "time": "02:29",
+        "date": "14",
+        "month": "Jan",
+        "year": "2019",
+        "duration": "2:06:26",
+        "comment": ""
+    },
+    "59": {
+        "line": 59,
+        "type": "timed",
+        "time": "02:19",
+        "date": "16",
+        "month": "Jan",
+        "year": "2019",
+        "duration": "2:23:47",
+        "comment": ""
+    },
+    "60": {
+        "line": 60,
+        "type": "timed",
+        "time": "00:44",
+        "date": "17",
+        "month": "Jan",
+        "year": "2019",
+        "duration": "0:22:32",
+        "comment": ""
+    },
+    "61": {
+        "line": 61,
+        "type": "untimed",
+        "time": "00:00",
+        "date": "18",
+        "month": "Jun",
+        "year": "2019",
+        "comment": ""
+    },
+    "62": {
+        "line": 62,
+        "type": "timed",
+        "time": "03:30",
+        "date": "19",
+        "month": "Jan",
+        "year": "2019",
+        "duration": "1:03:19",
+        "comment": "Not an accurate duration. I started maybe an hour before starting the timer"
+    },
+    "63": {
+        "line": 63,
+        "type": "timed",
+        "time": "01:38",
+        "date": "21",
+        "month": "Jan",
+        "year": "2019",
+        "duration": "1:27:10",
+        "comment": ""
+    },
+    "64": {
+        "line": 64,
+        "type": "timed",
+        "time": "01:24",
+        "date": "23",
+        "month": "Jan",
+        "year": "2019",
+        "duration": "1:32:16",
+        "comment": ""
+    },
+    "65": {
+        "line": 65,
+        "type": "timed",
+        "time": "02:02",
+        "date": "25",
+        "month": "Jan",
+        "year": "2019",
+        "duration": "2:01:05",
+        "comment": ""
+    },
+    "66": {
+        "line": 66,
+        "type": "timed",
+        "time": "01:57",
+        "date": "27",
+        "month": "Jan",
+        "year": "2019",
+        "duration": "1:56:03",
+        "comment": ""
+    },
+    "67": {
+        "line": 67,
+        "type": "timed",
+        "time": "03:10",
+        "date": "29",
+        "month": "Jan",
+        "year": "2019",
+        "duration": "2:40:56",
+        "comment": ""
+    },
+    "68": {
+        "line": 68,
+        "type": "timed",
+        "time": "02:08",
+        "date": "31",
+        "month": "Jan",
+        "year": "2019",
+        "duration": "1:28:33",
+        "comment": ""
+    },
+    "69": {
+        "line": 69,
+        "type": "timed",
+        "time": "01:37",
+        "date": "02",
+        "month": "Feb",
+        "year": "2019",
+        "duration": "1:48:09",
+        "comment": ""
+    },
+    "70": {
+        "line": 70,
+        "type": "timed",
+        "time": "02:31",
+        "date": "03",
+        "month": "Feb",
+        "year": "2019",
+        "duration": "1:57:19",
+        "comment": ""
+    },
+    "71": {
+        "line": 71,
+        "type": "timed",
+        "time": "02:39",
+        "date": "05",
+        "month": "Feb",
+        "year": "2019",
+        "duration": "2:17:04",
+        "comment": ""
+    },
+    "72": {
+        "line": 72,
+        "type": "timed",
+        "time": "02:10",
+        "date": "07",
+        "month": "Feb",
+        "year": "2019",
+        "duration": "1:24:46",
+        "comment": ""
+    },
+    "73": {
+        "line": 73,
+        "type": "timed",
+        "time": "02:14",
+        "date": "10",
+        "month": "Feb",
+        "year": "2019",
+        "duration": "1:33:43",
+        "comment": ""
+    },
+    "74": {
+        "line": 74,
+        "type": "untimed",
+        "time": "22:00",
+        "date": "11",
+        "month": "Feb",
+        "year": "2019",
+        "comment": ""
+    },
+    "75": {
+        "line": 75,
+        "type": "timed",
+        "time": "00:42",
+        "date": "14",
+        "month": "Feb",
+        "year": "2019",
+        "duration": "0:44:21",
+        "comment": ""
+    },
+    "76": {
+        "line": 76,
+        "type": "timed",
+        "time": "02:50",
+        "date": "16",
+        "month": "Feb",
+        "year": "2019",
+        "duration": "2:12:09",
+        "comment": ""
+    },
+    "77": {
+        "line": 77,
+        "type": "timed",
+        "time": "02:49",
+        "date": "18",
+        "month": "Feb",
+        "year": "2019",
+        "duration": "2:08:54",
+        "comment": ""
+    },
+    "78": {
+        "line": 78,
+        "type": "timed",
+        "time": "01:39",
+        "date": "19",
+        "month": "Feb",
+        "year": "2019",
+        "duration": "1:34:34",
+        "comment": ""
+    },
+    "79": {
+        "line": 79,
+        "type": "timed",
+        "time": "01:39",
+        "date": "20",
+        "month": "Feb",
+        "year": "2019",
+        "duration": "1:14:31",
+        "comment": ""
+    },
+    "80": {
+        "line": 80,
+        "type": "timed",
+        "time": "02:58",
+        "date": "22",
+        "month": "Feb",
+        "year": "2019",
+        "duration": "1:48:15",
+        "comment": ""
+    },
+    "81": {
+        "line": 81,
+        "type": "timed",
+        "time": "02:28",
+        "date": "23",
+        "month": "Feb",
+        "year": "2019",
+        "duration": "0:44:18",
+        "comment": ""
+    },
+    "82": {
+        "line": 82,
+        "type": "timed",
+        "time": "01:33",
+        "date": "24",
+        "month": "Feb",
+        "year": "2019",
+        "duration": "1:54:44",
+        "comment": ""
+    },
+    "83": {
+        "line": 83,
+        "type": "timed",
+        "time": "01:33",
+        "date": "26",
+        "month": "Feb",
+        "year": "2019",
+        "duration": "0:46:54",
+        "comment": ""
+    },
+    "84": {
+        "line": 84,
+        "type": "timed",
+        "time": "02:21",
+        "date": "28",
+        "month": "Feb",
+        "year": "2019",
+        "duration": "2:10:47",
+        "comment": ""
+    },
+    "85": {
+        "line": 85,
+        "type": "timed",
+        "time": "01:22",
+        "date": "03",
+        "month": "Mar",
+        "year": "2019",
+        "duration": "1:12:35",
+        "comment": ""
+    },
+    "86": {
+        "line": 86,
+        "type": "timed",
+        "time": "02:35",
+        "date": "05",
+        "month": "Mar",
+        "year": "2019",
+        "duration": "1:55:06",
+        "comment": ""
+    },
+    "87": {
+        "line": 87,
+        "type": "timed",
+        "time": "01:59",
+        "date": "07",
+        "month": "Mar",
+        "year": "2019",
+        "duration": "1:35:22",
+        "comment": ""
+    },
+    "88": {
+        "line": 88,
+        "type": "timed",
+        "time": "02:00",
+        "date": "09",
+        "month": "Mar",
+        "year": "2019",
+        "duration": "1:48:26",
+        "comment": ""
+    },
+    "89": {
+        "line": 89,
+        "type": "timed",
+        "time": "01:03",
+        "date": "11",
+        "month": "Mar",
+        "year": "2019",
+        "duration": "1:34:15",
+        "comment": ""
+    },
+    "90": {
+        "line": 90,
+        "type": "untimed",
+        "time": "21:20",
+        "date": "11",
+        "month": "Mar",
+        "year": "2019",
+        "comment": ""
+    },
+    "91": {
+        "line": 91,
+        "type": "untimed",
+        "time": "10:30",
+        "date": "19",
+        "month": "Mar",
+        "year": "2019",
+        "comment": ""
+    },
+    "92": {
+        "line": 92,
+        "type": "untimed",
+        "time": "18:30",
+        "date": "23",
+        "month": "Mar",
+        "year": "2019",
+        "comment": ""
+    },
+    "93": {
+        "line": 93,
+        "type": "untimed",
+        "time": "9:30",
+        "date": "26",
+        "month": "Mar",
+        "year": "2019",
+        "comment": ""
+    },
+    "94": {
+        "line": 94,
+        "type": "untimed",
+        "time": "19:00",
+        "date": "26",
+        "month": "Mar",
+        "year": "2019",
+        "comment": ""
+    },
+    "95": {
+        "line": 95,
+        "type": "untimed",
+        "time": "19:00",
+        "date": "30",
+        "month": "Mar",
+        "year": "2019",
+        "comment": ""
+    },
+    "96": {
+        "line": 96,
+        "type": "untimed",
+        "time": "14:00",
+        "date": "2",
+        "month": "Apr",
+        "year": "2019",
+        "comment": ""
+    },
+    "97": {
+        "line": 97,
+        "type": "untimed",
+        "time": "14:44",
+        "date": "4",
+        "month": "Apr",
+        "year": "2019",
+        "comment": ""
+    },
+    "98": {
+        "line": 98,
+        "type": "untimed",
+        "time": "12:30",
+        "date": "6",
+        "month": "Apr",
+        "year": "2019",
+        "comment": ""
+    },
+    "99": {
+        "line": 99,
+        "type": "untimed",
+        "time": "21:00",
+        "date": "8",
+        "month": "Apr",
+        "year": "2019",
+        "comment": ""
+    },
+    "100": {
+        "line": 100,
+        "type": "untimed",
+        "time": "9:30",
+        "date": "10",
+        "month": "Apr",
+        "year": "2019",
+        "comment": ""
+    },
+    "101": {
+        "line": 101,
+        "type": "untimed",
+        "time": "12:00",
+        "date": "13",
+        "month": "Apr",
+        "year": "2019",
+        "comment": ""
+    },
+    "102": {
+        "line": 102,
+        "type": "untimed",
+        "time": "12:33",
+        "date": "16",
+        "month": "Apr",
+        "year": "2019",
+        "comment": ""
+    },
+    "103": {
+        "line": 103,
+        "type": "untimed",
+        "time": "19:00",
+        "date": "17",
+        "month": "Apr",
+        "year": "2019",
+        "comment": ""
+    },
+    "104": {
+        "line": 104,
+        "type": "timed",
+        "time": "1:13",
+        "date": "19",
+        "month": "Apr",
+        "year": "2019",
+        "duration": "1:13:00",
+        "comment": ""
+    },
+    "105": {
+        "line": 105,
+        "type": "timed",
+        "time": "1:49",
+        "date": "22",
+        "month": "Apr",
+        "year": "2019",
+        "duration": "3:00:00",
+        "comment": ""
+    },
+    "106": {
+        "line": 106,
+        "type": "untimed",
+        "time": "19:40",
+        "date": "23",
+        "month": "Apr",
+        "year": "2019",
+        "comment": ""
+    },
+    "107": {
+        "line": 107,
+        "type": "timed",
+        "time": "2:05",
+        "date": "22",
+        "month": "Apr",
+        "year": "2019",
+        "duration": "2:00:00",
+        "comment": ""
+    },
+    "108": {
+        "line": 108,
+        "type": "untimed",
+        "time": "9:20",
+        "date": "27",
+        "month": "Apr",
+        "year": "2019",
+        "comment": ""
+    },
+    "109": {
+        "line": 109,
+        "type": "timed",
+        "time": "03:31",
+        "date": "28",
+        "month": "Apr",
+        "year": "2019",
+        "duration": "3:40:35",
+        "comment": ""
+    },
+    "110": {
+        "line": 110,
+        "type": "timed",
+        "time": "01:24",
+        "date": "29",
+        "month": "Apr",
+        "year": "2019",
+        "duration": "1:01:03",
+        "comment": ""
+    },
+    "111": {
+        "line": 111,
+        "type": "timed",
+        "time": "03:50",
+        "date": "01",
+        "month": "May",
+        "year": "2019",
+        "duration": "3:36:52",
+        "comment": ""
+    },
+    "112": {
+        "line": 112,
+        "type": "untimed",
+        "time": "19:00",
+        "date": "1",
+        "month": "May",
+        "year": "2019",
+        "comment": ""
+    },
+    "113": {
+        "line": 113,
+        "type": "timed",
+        "time": "02:41",
+        "date": "03",
+        "month": "May",
+        "year": "2019",
+        "duration": "2:42:34",
+        "comment": ""
+    },
+    "114": {
+        "line": 114,
+        "type": "timed",
+        "time": "01:37",
+        "date": "05",
+        "month": "May",
+        "year": "2019",
+        "duration": "1:37:54",
+        "comment": ""
+    },
+    "115": {
+        "line": 115,
+        "type": "timed",
+        "time": "01:07",
+        "date": "08",
+        "month": "May",
+        "year": "2019",
+        "duration": "1:19:37",
+        "comment": ""
+    },
+    "116": {
+        "line": 116,
+        "type": "untimed",
+        "time": "10:00",
+        "date": "10",
+        "month": "May",
+        "year": "2019",
+        "comment": ""
+    },
+    "117": {
+        "line": 117,
+        "type": "timed",
+        "time": "02:51",
+        "date": "12",
+        "month": "May",
+        "year": "2019",
+        "duration": "2:10:24",
+        "comment": ""
+    },
+    "118": {
+        "line": 118,
+        "type": "timed",
+        "time": "23:43",
+        "date": "12",
+        "month": "May",
+        "year": "2019",
+        "duration": "0:30:00",
+        "comment": ""
+    },
+    "119": {
+        "line": 119,
+        "type": "untimed",
+        "time": "10:00",
+        "date": "16",
+        "month": "May",
+        "year": "2019",
+        "comment": ""
+    },
+    "120": {
+        "line": 120,
+        "type": "untimed",
+        "time": "12:15",
+        "date": "17",
+        "month": "May",
+        "year": "2019",
+        "comment": ""
+    },
+    "121": {
+        "line": 121,
+        "type": "untimed",
+        "time": "18:20",
+        "date": "17",
+        "month": "May",
+        "year": "2019",
+        "comment": ""
+    },
+    "122": {
+        "line": 122,
+        "type": "timed",
+        "time": "02:47",
+        "date": "19",
+        "month": "May",
+        "year": "2019",
+        "duration": "2:52:29",
+        "comment": ""
+    },
+    "123": {
+        "line": 123,
+        "type": "timed",
+        "time": "02:19",
+        "date": "22",
+        "month": "May",
+        "year": "2019",
+        "duration": "2:00:57",
+        "comment": ""
+    },
+    "124": {
+        "line": 124,
+        "type": "untimed",
+        "time": "10:00",
+        "date": "25",
+        "month": "May",
+        "year": "2019",
+        "comment": ""
+    },
+    "125": {
+        "line": 125,
+        "type": "timed",
+        "time": "01:05",
+        "date": "26",
+        "month": "May",
+        "year": "2019",
+        "duration": "0:46:29",
+        "comment": ""
+    },
+    "126": {
+        "line": 126,
+        "type": "untimed",
+        "time": "19:00",
+        "date": "27",
+        "month": "May",
+        "year": "2019",
+        "comment": ""
+    },
+    "127": {
+        "line": 127,
+        "type": "untimed",
+        "time": "10:00",
+        "date": "28",
+        "month": "May",
+        "year": "2019",
+        "comment": ""
+    },
+    "128": {
+        "line": 128,
+        "type": "untimed",
+        "time": "9:50",
+        "date": "29",
+        "month": "May",
+        "year": "2019",
+        "comment": ""
+    },
+    "129": {
+        "line": 129,
+        "type": "timed",
+        "time": "02:40",
+        "date": "31",
+        "month": "May",
+        "year": "2019",
+        "duration": "2:12:32",
+        "comment": ""
+    },
+    "130": {
+        "line": 130,
+        "type": "timed",
+        "time": "01:55",
+        "date": "03",
+        "month": "Jun",
+        "year": "2019",
+        "duration": "1:18:17",
+        "comment": ""
+    },
+    "131": {
+        "line": 131,
+        "type": "untimed",
+        "time": "11:10",
+        "date": "3",
+        "month": "Jun",
+        "year": "2019",
+        "comment": ""
+    },
+    "132": {
+        "line": 132,
+        "type": "timed",
+        "time": "01:08",
+        "date": "04",
+        "month": "Jun",
+        "year": "2019",
+        "duration": "1:54:53",
+        "comment": ""
+    },
+    "133": {
+        "line": 133,
+        "type": "untimed",
+        "time": "10:00",
+        "date": "5",
+        "month": "Jun",
+        "year": "2019",
+        "comment": ""
+    },
+    "134": {
+        "line": 134,
+        "type": "untimed",
+        "time": "11:50",
+        "date": "7",
+        "month": "Jun",
+        "year": "2019",
+        "comment": ""
+    },
+    "135": {
+        "line": 135,
+        "type": "timed",
+        "time": "02:11",
+        "date": "08",
+        "month": "Jun",
+        "year": "2019",
+        "duration": "2:04:09",
+        "comment": ""
+    },
+    "136": {
+        "line": 136,
+        "type": "untimed",
+        "time": "10:30",
+        "date": "10",
+        "month": "Jun",
+        "year": "2019",
+        "comment": ""
+    },
+    "137": {
+        "line": 137,
+        "type": "timed",
+        "time": "00:00",
+        "date": "12",
+        "month": "Jun",
+        "year": "2019",
+        "duration": "2:00:00",
+        "comment": ""
+    },
+    "138": {
+        "line": 138,
+        "type": "timed",
+        "time": "03:07",
+        "date": "14",
+        "month": "Jun",
+        "year": "2019",
+        "duration": "2:30:56",
+        "comment": ""
+    },
+    "139": {
+        "line": 139,
+        "type": "untimed",
+        "time": "10:30",
+        "date": "15",
+        "month": "Jun",
+        "year": "2019",
+        "comment": ""
+    },
+    "140": {
+        "line": 140,
+        "type": "timed",
+        "time": "02:26",
+        "date": "18",
+        "month": "Jun",
+        "year": "2019",
+        "duration": "2:19:22",
+        "comment": ""
+    },
+    "141": {
+        "line": 141,
+        "type": "timed",
+        "time": "02:38",
+        "date": "20",
+        "month": "Jun",
+        "year": "2019",
+        "duration": "2:05:59",
+        "comment": ""
+    },
+    "142": {
+        "line": 142,
+        "type": "untimed",
+        "time": "12:45",
+        "date": "22",
+        "month": "Jun",
+        "year": "2019",
+        "comment": ""
+    },
+    "143": {
+        "line": 143,
+        "type": "timed",
+        "time": "01:16",
+        "date": "24",
+        "month": "Jun",
+        "year": "2019",
+        "duration": "0:56:35",
+        "comment": ""
+    },
+    "144": {
+        "line": 144,
+        "type": "untimed",
+        "time": "20:00",
+        "date": "27",
+        "month": "Jun",
+        "year": "2019",
+        "comment": ""
+    },
+    "145": {
+        "line": 145,
+        "type": "timed",
+        "time": "02:35",
+        "date": "29",
+        "month": "Jun",
+        "year": "2019",
+        "duration": "2:09:52",
+        "comment": ""
+    },
+    "146": {
+        "line": 146,
+        "type": "untimed",
+        "time": "10:00",
+        "date": "30",
+        "month": "Jun",
+        "year": "2019",
+        "comment": ""
+    },
+    "147": {
+        "line": 147,
+        "type": "timed",
+        "time": "01:43",
+        "date": "01",
+        "month": "Jul",
+        "year": "2019",
+        "duration": "1:10:04",
+        "comment": ""
+    },
+    "148": {
+        "line": 148,
+        "type": "untimed",
+        "time": "10:30",
+        "date": "1",
+        "month": "Jul",
+        "year": "2019",
+        "comment": ""
+    },
+    "149": {
+        "line": 149,
+        "type": "untimed",
+        "time": "9:30",
+        "date": "3",
+        "month": "Jul",
+        "year": "2019",
+        "comment": ""
+    },
+    "150": {
+        "line": 150,
+        "type": "untimed",
+        "time": "??:??",
+        "date": "6",
+        "month": "Jul",
+        "year": "2019",
+        "comment": "Orgasmed in my sleep, but i didn't ejaculate. Nutted to Diana bending over, pulling her shorts down"
+    },
+    "151": {
+        "line": 151,
+        "type": "timed",
+        "time": "14:40",
+        "date": "7",
+        "month": "Jul",
+        "year": "2019",
+        "duration": "4:??:??",
+        "comment": ""
+    },
+    "152": {
+        "line": 152,
+        "type": "untimed",
+        "time": "13:10",
+        "date": "9",
+        "month": "Jul",
+        "year": "2019",
+        "comment": ""
+    },
+    "153": {
+        "line": 153,
+        "type": "timed",
+        "time": "02:33",
+        "date": "11",
+        "month": "Jul",
+        "year": "2019",
+        "duration": "3:31:13",
+        "comment": ""
+    },
+    "154": {
+        "line": 154,
+        "type": "untimed",
+        "time": "10:00",
+        "date": "13",
+        "month": "Jul",
+        "year": "2019",
+        "comment": ""
+    },
+    "155": {
+        "line": 155,
+        "type": "timed",
+        "time": "02:27",
+        "date": "16",
+        "month": "Jul",
+        "year": "2019",
+        "duration": "2:47:10",
+        "comment": ""
+    },
+    "156": {
+        "line": 156,
+        "type": "untimed",
+        "time": "19:20",
+        "date": "17",
+        "month": "Jul",
+        "year": "2019",
+        "comment": ""
+    },
+    "157": {
+        "line": 157,
+        "type": "untimed",
+        "time": "19:00",
+        "date": "18",
+        "month": "Jul",
+        "year": "2019",
+        "comment": ""
+    },
+    "158": {
+        "line": 158,
+        "type": "untimed",
+        "time": "03:00",
+        "date": "20",
+        "month": "Jul",
+        "year": "2019",
+        "comment": ""
+    },
+    "159": {
+        "line": 159,
+        "type": "timed",
+        "time": "00:09",
+        "date": "23",
+        "month": "Jul",
+        "year": "2019",
+        "duration": "1:20:02",
+        "comment": ""
+    },
+    "160": {
+        "line": 160,
+        "type": "timed",
+        "time": "01:47",
+        "date": "25",
+        "month": "Jul",
+        "year": "2019",
+        "duration": "1:36:14",
+        "comment": ""
+    },
+    "161": {
+        "line": 161,
+        "type": "untimed",
+        "time": "2:30",
+        "date": "28",
+        "month": "Jul",
+        "year": "2019",
+        "comment": ""
+    },
+    "162": {
+        "line": 162,
+        "type": "untimed",
+        "time": "10:00",
+        "date": "1",
+        "month": "Aug",
+        "year": "2019",
+        "comment": ""
+    },
+    "163": {
+        "line": 163,
+        "type": "untimed",
+        "time": "9:45",
+        "date": "2",
+        "month": "Aug",
+        "year": "2019",
+        "comment": ""
+    },
+    "164": {
+        "line": 164,
+        "type": "timed",
+        "time": "01:31",
+        "date": "03",
+        "month": "Aug",
+        "year": "2019",
+        "duration": "1:56:48",
+        "comment": ""
+    },
+    "165": {
+        "line": 165,
+        "type": "untimed",
+        "time": "11:00",
+        "date": "5",
+        "month": "Aug",
+        "year": "2019",
+        "comment": ""
+    },
+    "166": {
+        "line": 166,
+        "type": "timed",
+        "time": "03:02",
+        "date": "07",
+        "month": "Aug",
+        "year": "2019",
+        "duration": "3:20:26",
+        "comment": ""
+    },
+    "167": {
+        "line": 167,
+        "type": "untimed",
+        "time": "10:15",
+        "date": "8",
+        "month": "Aug",
+        "year": "2019",
+        "comment": ""
+    },
+    "168": {
+        "line": 168,
+        "type": "timed",
+        "time": "02:26",
+        "date": "10",
+        "month": "Aug",
+        "year": "2019",
+        "duration": "2:40:36",
+        "comment": ""
+    },
+    "169": {
+        "line": 169,
+        "type": "timed",
+        "time": "03:14",
+        "date": "12",
+        "month": "Aug",
+        "year": "2019",
+        "duration": "3:18:39",
+        "comment": ""
+    },
+    "170": {
+        "line": 170,
+        "type": "untimed",
+        "time": "20:20",
+        "date": "13",
+        "month": "Aug",
+        "year": "2019",
+        "comment": ""
+    },
+    "171": {
+        "line": 171,
+        "type": "untimed",
+        "time": "21:10",
+        "date": "14",
+        "month": "Aug",
+        "year": "2019",
+        "comment": ""
+    },
+    "172": {
+        "line": 172,
+        "type": "untimed",
+        "time": "12:22",
+        "date": "15",
+        "month": "Aug",
+        "year": "2019",
+        "comment": ""
+    },
+    "173": {
+        "line": 173,
+        "type": "untimed",
+        "time": "19:40",
+        "date": "16",
+        "month": "Aug",
+        "year": "2019",
+        "comment": ""
+    },
+    "174": {
+        "line": 174,
+        "type": "timed",
+        "time": "01:57",
+        "date": "18",
+        "month": "Aug",
+        "year": "2019",
+        "duration": "1:28:22",
+        "comment": ""
+    },
+    "175": {
+        "line": 175,
+        "type": "timed",
+        "time": "02:55",
+        "date": "19",
+        "month": "Aug",
+        "year": "2019",
+        "duration": "4:14:45",
+        "comment": ""
+    },
+    "176": {
+        "line": 176,
+        "type": "untimed",
+        "time": "10:00",
+        "date": "21",
+        "month": "Aug",
+        "year": "2019",
+        "comment": ""
+    },
+    "177": {
+        "line": 177,
+        "type": "timed",
+        "time": "02:17",
+        "date": "24",
+        "month": "Aug",
+        "year": "2019",
+        "duration": "2:15:18",
+        "comment": ""
+    },
+    "178": {
+        "line": 178,
+        "type": "untimed",
+        "time": "10:00",
+        "date": "26",
+        "month": "Aug",
+        "year": "2019",
+        "comment": ""
+    },
+    "179": {
+        "line": 179,
+        "type": "untimed",
+        "time": "21:00",
+        "date": "29",
+        "month": "Aug",
+        "year": "2019",
+        "comment": ""
+    },
+    "180": {
+        "line": 180,
+        "type": "timed",
+        "time": "01:08",
+        "date": "31",
+        "month": "Aug",
+        "year": "2019",
+        "duration": "1:00:32",
+        "comment": ""
+    },
+    "181": {
+        "line": 181,
+        "type": "timed",
+        "time": "00:56",
+        "date": "04",
+        "month": "Sep",
+        "year": "2019",
+        "duration": "1:46:53",
+        "comment": ""
+    },
+    "182": {
+        "line": 182,
+        "type": "timed",
+        "time": "03:02",
+        "date": "07",
+        "month": "Sep",
+        "year": "2019",
+        "duration": "4:02:09",
+        "comment": ""
+    },
+    "183": {
+        "line": 183,
+        "type": "untimed",
+        "time": "9:50",
+        "date": "14",
+        "month": "Sep",
+        "year": "2019",
+        "comment": ""
+    },
+    "184": {
+        "line": 184,
+        "type": "untimed",
+        "time": "6:55",
+        "date": "16",
+        "month": "Sep",
+        "year": "2019",
+        "comment": ""
+    },
+    "185": {
+        "line": 185,
+        "type": "untimed",
+        "time": "7:00",
+        "date": "17",
+        "month": "Sep",
+        "year": "2019",
+        "comment": ""
+    },
+    "186": {
+        "line": 186,
+        "type": "timed",
+        "time": "02:52",
+        "date": "19",
+        "month": "Sep",
+        "year": "2019",
+        "duration": "3:08:39",
+        "comment": ""
+    },
+    "187": {
+        "line": 187,
+        "type": "untimed",
+        "time": "9:30",
+        "date": "21",
+        "month": "Sep",
+        "year": "2019",
+        "comment": ""
+    },
+    "188": {
+        "line": 188,
+        "type": "timed",
+        "time": "02:39",
+        "date": "22",
+        "month": "Sep",
+        "year": "2019",
+        "duration": "4:03:02",
+        "comment": ""
+    },
+    "189": {
+        "line": 189,
+        "type": "timed",
+        "time": "02:06",
+        "date": "26",
+        "month": "Sep",
+        "year": "2019",
+        "duration": "2:52:07",
+        "comment": ""
+    },
+    "190": {
+        "line": 190,
+        "type": "timed",
+        "time": "01:48",
+        "date": "27",
+        "month": "Sep",
+        "year": "2019",
+        "duration": "3:19:14",
+        "comment": ""
+    },
+    "191": {
+        "line": 191,
+        "type": "untimed",
+        "time": "13:18",
+        "date": "29",
+        "month": "Sep",
+        "year": "2019",
+        "comment": ""
+    },
+    "192": {
+        "line": 192,
+        "type": "timed",
+        "time": "00:32",
+        "date": "04",
+        "month": "Oct",
+        "year": "2019",
+        "duration": "2:07:22",
+        "comment": ""
+    },
+    "193": {
+        "line": 193,
+        "type": "untimed",
+        "time": "8:30",
+        "date": "10",
+        "month": "Oct",
+        "year": "2019",
+        "comment": ""
+    },
+    "194": {
+        "line": 194,
+        "type": "timed",
+        "time": "03:17",
+        "date": "12",
+        "month": "Oct",
+        "year": "2019",
+        "duration": "3:32:26",
+        "comment": ""
+    },
+    "195": {
+        "line": 195,
+        "type": "untimed",
+        "time": "10:30",
+        "date": "15",
+        "month": "Oct",
+        "year": "2019",
+        "comment": ""
+    },
+    "196": {
+        "line": 196,
+        "type": "timed",
+        "time": "03:17",
+        "date": "19",
+        "month": "Oct",
+        "year": "2019",
+        "duration": "2:19:58",
+        "comment": ""
+    },
+    "197": {
+        "line": 197,
+        "type": "untimed",
+        "time": "9:30",
+        "date": "20",
+        "month": "Oct",
+        "year": "2019",
+        "comment": ""
+    },
+    "198": {
+        "line": 198,
+        "type": "timed",
+        "time": "02:38",
+        "date": "21",
+        "month": "Oct",
+        "year": "2019",
+        "duration": "2:27:19",
+        "comment": ""
+    },
+    "199": {
+        "line": 199,
+        "type": "untimed",
+        "time": "10:00",
+        "date": "21",
+        "month": "Oct",
+        "year": "2019",
+        "comment": ""
+    },
+    "200": {
+        "line": 200,
+        "type": "timed",
+        "time": "02:03",
+        "date": "26",
+        "month": "Oct",
+        "year": "2019",
+        "duration": "2:07:32",
+        "comment": ""
+    },
+    "201": {
+        "line": 201,
+        "type": "untimed",
+        "time": "10:15",
+        "date": "27",
+        "month": "Oct",
+        "year": "2019",
+        "comment": ""
+    },
+    "202": {
+        "line": 202,
+        "type": "timed",
+        "time": "01:43",
+        "date": "29",
+        "month": "Oct",
+        "year": "2019",
+        "duration": "1:40:17",
+        "comment": ""
+    },
+    "203": {
+        "line": 203,
+        "type": "untimed",
+        "time": "10:00",
+        "date": "29",
+        "month": "Oct",
+        "year": "2019",
+        "comment": ""
+    },
+    "204": {
+        "line": 204,
+        "type": "untimed",
+        "time": "11:40",
+        "date": "31",
+        "month": "Oct",
+        "year": "2019",
+        "comment": ""
+    },
+    "205": {
+        "line": 205,
+        "type": "untimed",
+        "time": "10:10",
+        "date": "01",
+        "month": "Nov",
+        "year": "2019",
+        "comment": ""
+    },
+    "206": {
+        "line": 206,
+        "type": "timed",
+        "time": "03:06",
+        "date": "03",
+        "month": "Nov",
+        "year": "2019",
+        "duration": "2:41:53",
+        "comment": ""
+    },
+    "207": {
+        "line": 207,
+        "type": "untimed",
+        "time": "9:40",
+        "date": "07",
+        "month": "Nov",
+        "year": "2019",
+        "comment": ""
+    },
+    "208": {
+        "line": 208,
+        "type": "timed",
+        "time": "03:17",
+        "date": "09",
+        "month": "Nov",
+        "year": "2019",
+        "duration": "2:29:33",
+        "comment": ""
+    },
+    "209": {
+        "line": 209,
+        "type": "timed",
+        "time": "00:47",
+        "date": "10",
+        "month": "Nov",
+        "year": "2019",
+        "duration": "0:47:12",
+        "comment": ""
+    },
+    "210": {
+        "line": 210,
+        "type": "timed",
+        "time": "01:29",
+        "date": "11",
+        "month": "Nov",
+        "year": "2019",
+        "duration": "0:48:54",
+        "comment": ""
+    },
+    "211": {
+        "line": 211,
+        "type": "untimed",
+        "time": "10:50",
+        "date": "12",
+        "month": "Nov",
+        "year": "2019",
+        "comment": ""
+    },
+    "212": {
+        "line": 212,
+        "type": "untimed",
+        "time": "10:20",
+        "date": "14",
+        "month": "Nov",
+        "year": "2019",
+        "comment": ""
+    },
+    "213": {
+        "line": 213,
+        "type": "timed",
+        "time": "01:16",
+        "date": "17",
+        "month": "Nov",
+        "year": "2019",
+        "duration": "0:42:21",
+        "comment": ""
+    },
+    "214": {
+        "line": 214,
+        "type": "untimed",
+        "time": "10:10",
+        "date": "17",
+        "month": "Nov",
+        "year": "2019",
+        "comment": ""
+    },
+    "215": {
+        "line": 215,
+        "type": "untimed",
+        "time": "11:40",
+        "date": "18",
+        "month": "Nov",
+        "year": "2019",
+        "comment": ""
+    },
+    "216": {
+        "line": 216,
+        "type": "timed",
+        "time": "01:56",
+        "date": "20",
+        "month": "Nov",
+        "year": "2019",
+        "duration": "1:38:38",
+        "comment": ""
+    },
+    "217": {
+        "line": 217,
+        "type": "timed",
+        "time": "02:11",
+        "date": "21",
+        "month": "Nov",
+        "year": "2019",
+        "duration": "1:01:03",
+        "comment": ""
+    },
+    "218": {
+        "line": 218,
+        "type": "untimed",
+        "time": "11:05",
+        "date": "23",
+        "month": "Nov",
+        "year": "2019",
+        "comment": ""
+    },
+    "219": {
+        "line": 219,
+        "type": "timed",
+        "time": "03:26",
+        "date": "25",
+        "month": "Nov",
+        "year": "2019",
+        "duration": "2:45:18",
+        "comment": ""
+    },
+    "220": {
+        "line": 220,
+        "type": "untimed",
+        "time": "11:50",
+        "date": "26",
+        "month": "Nov",
+        "year": "2019",
+        "comment": ""
+    },
+    "221": {
+        "line": 221,
+        "type": "timed",
+        "time": "03:00",
+        "date": "29",
+        "month": "Nov",
+        "year": "2019",
+        "duration": "1:53:45",
+        "comment": ""
+    },
+    "222": {
+        "line": 222,
+        "type": "timed",
+        "time": "03:14",
+        "date": "01",
+        "month": "Dec",
+        "year": "2019",
+        "duration": "2:39:04",
+        "comment": ""
+    },
+    "223": {
+        "line": 223,
+        "type": "untimed",
+        "time": "11:20",
+        "date": "02",
+        "month": "Dec",
+        "year": "2019",
+        "comment": ""
+    },
+    "224": {
+        "line": 224,
+        "type": "timed",
+        "time": "02:50",
+        "date": "04",
+        "month": "Dec",
+        "year": "2019",
+        "duration": "2:03:05",
+        "comment": ""
+    },
+    "225": {
+        "line": 225,
+        "type": "timed",
+        "time": "02:20",
+        "date": "06",
+        "month": "Dec",
+        "year": "2019",
+        "duration": "2:06:41",
+        "comment": ""
+    },
+    "226": {
+        "line": 226,
+        "type": "untimed",
+        "time": "10:20",
+        "date": "06",
+        "month": "Dec",
+        "year": "2019",
+        "comment": ""
+    },
+    "227": {
+        "line": 227,
+        "type": "timed",
+        "time": "02:48",
+        "date": "11",
+        "month": "Dec",
+        "year": "2019",
+        "duration": "2:51:15",
+        "comment": ""
+    },
+    "228": {
+        "line": 228,
+        "type": "timed",
+        "time": "00:14",
+        "date": "13",
+        "month": "Dec",
+        "year": "2019",
+        "duration": "1:07:43",
+        "comment": ""
+    },
+    "229": {
+        "line": 229,
+        "type": "untimed",
+        "time": "9:30",
+        "date": "14",
+        "month": "Dec",
+        "year": "2019",
+        "comment": ""
+    },
+    "230": {
+        "line": 230,
+        "type": "timed",
+        "time": "03:39",
+        "date": "17",
+        "month": "Dec",
+        "year": "2019",
+        "duration": "4:20:29",
+        "comment": ""
+    },
+    "231": {
+        "line": 231,
+        "type": "untimed",
+        "time": "10:56",
+        "date": "18",
+        "month": "Dec",
+        "year": "2019",
+        "comment": ""
+    },
+    "232": {
+        "line": 232,
+        "type": "timed",
+        "time": "01:55",
+        "date": "20",
+        "month": "Dec",
+        "year": "2019",
+        "duration": "1:47:19",
+        "comment": ""
+    },
+    "233": {
+        "line": 233,
+        "type": "untimed",
+        "time": "10:50",
+        "date": "20",
+        "month": "Dec",
+        "year": "2019",
+        "comment": ""
+    },
+    "234": {
+        "line": 234,
+        "type": "timed",
+        "time": "02:51",
+        "date": "22",
+        "month": "Dec",
+        "year": "2019",
+        "duration": "2:17:27",
+        "comment": ""
+    },
+    "235": {
+        "line": 235,
+        "type": "timed",
+        "time": "01:53",
+        "date": "23",
+        "month": "Dec",
+        "year": "2019",
+        "duration": "1:43:18",
+        "comment": ""
+    },
+    "236": {
+        "line": 236,
+        "type": "untimed",
+        "time": "11:40",
+        "date": "23",
+        "month": "Dec",
+        "year": "2019",
+        "comment": ""
+    },
+    "237": {
+        "line": 237,
+        "type": "timed",
+        "time": "01:36",
+        "date": "24",
+        "month": "Dec",
+        "year": "2019",
+        "duration": "0:34:52",
+        "comment": ""
+    },
+    "238": {
+        "line": 238,
+        "type": "timed",
+        "time": "02:58",
+        "date": "26",
+        "month": "Dec",
+        "year": "2019",
+        "duration": "2:35:37",
+        "comment": ""
+    },
+    "239": {
+        "line": 239,
+        "type": "untimed",
+        "time": "10:15",
+        "date": "27",
+        "month": "Dec",
+        "year": "2019",
+        "comment": ""
+    },
+    "240": {
+        "line": 240,
+        "type": "untimed",
+        "time": "10:45",
+        "date": "28",
+        "month": "Dec",
+        "year": "2019",
+        "comment": ""
+    },
+    "241": {
+        "line": 241,
+        "type": "timed",
+        "time": "02:08",
+        "date": "30",
+        "month": "Dec",
+        "year": "2019",
+        "duration": "2:22:09",
+        "comment": ""
+    },
+    "242": {
+        "line": 242,
+        "type": "timed",
+        "time": "01:45",
+        "date": "01",
+        "month": "Jan",
+        "year": "2020",
+        "duration": "1:13:02",
+        "comment": ""
+    },
+    "243": {
+        "line": 243,
+        "type": "timed",
+        "time": "01:36",
+        "date": "03",
+        "month": "Jan",
+        "year": "2020",
+        "duration": "0:27:59",
+        "comment": ""
+    },
+    "244": {
+        "line": 244,
+        "type": "untimed",
+        "time": "9:35",
+        "date": "03",
+        "month": "Jan",
+        "year": "2020",
+        "comment": ""
+    },
+    "245": {
+        "line": 245,
+        "type": "untimed",
+        "time": "1:53",
+        "date": "04",
+        "month": "Jan",
+        "year": "2020",
+        "comment": ""
+    },
+    "246": {
+        "line": 246,
+        "type": "timed",
+        "time": "01:50",
+        "date": "05",
+        "month": "Jan",
+        "year": "2020",
+        "duration": "1:50:17",
+        "comment": ""
+    },
+    "247": {
+        "line": 247,
+        "type": "timed",
+        "time": "01:06",
+        "date": "07",
+        "month": "Jan",
+        "year": "2020",
+        "duration": "1:17:08",
+        "comment": ""
+    },
+    "248": {
+        "line": 248,
+        "type": "timed",
+        "time": "02:31",
+        "date": "09",
+        "month": "Jan",
+        "year": "2020",
+        "duration": "1:23:59",
+        "comment": ""
+    },
+    "249": {
+        "line": 249,
+        "type": "untimed",
+        "time": "10:57",
+        "date": "10",
+        "month": "Jan",
+        "year": "2020",
+        "comment": ""
+    },
+    "250": {
+        "line": 250,
+        "type": "untimed",
+        "time": "9:50",
+        "date": "11",
+        "month": "Jan",
+        "year": "2020",
+        "comment": ""
+    },
+    "251": {
+        "line": 251,
+        "type": "timed",
+        "time": "01:36",
+        "date": "13",
+        "month": "Jan",
+        "year": "2020",
+        "duration": "1:25:14",
+        "comment": ""
+    },
+    "252": {
+        "line": 252,
+        "type": "untimed",
+        "time": "11:18",
+        "date": "13",
+        "month": "Jan",
+        "year": "2020",
+        "comment": ""
+    },
+    "253": {
+        "line": 253,
+        "type": "timed",
+        "time": "01:48",
+        "date": "16",
+        "month": "Jan",
+        "year": "2020",
+        "duration": "1:31:39",
+        "comment": ""
+    },
+    "254": {
+        "line": 254,
+        "type": "timed",
+        "time": "01:11",
+        "date": "19",
+        "month": "Jan",
+        "year": "2020",
+        "duration": "1:33:25",
+        "comment": ""
+    },
+    "255": {
+        "line": 255,
+        "type": "untimed",
+        "time": "10:45",
+        "date": "21",
+        "month": "Jan",
+        "year": "2020",
+        "comment": ""
+    },
+    "256": {
+        "line": 256,
+        "type": "untimed",
+        "time": "10:50",
+        "date": "23",
+        "month": "Jan",
+        "year": "2020",
+        "comment": ""
+    },
+    "257": {
+        "line": 257,
+        "type": "timed",
+        "time": "02:11",
+        "date": "25",
+        "month": "Jan",
+        "year": "2020",
+        "duration": "1:05:56",
+        "comment": ""
+    },
+    "258": {
+        "line": 258,
+        "type": "timed",
+        "time": "01:32",
+        "date": "27",
+        "month": "Jan",
+        "year": "2020",
+        "duration": "0:47:22",
+        "comment": ""
+    },
+    "259": {
+        "line": 259,
+        "type": "timed",
+        "time": "02:58",
+        "date": "29",
+        "month": "Jan",
+        "year": "2020",
+        "duration": "2:14:31",
+        "comment": ""
+    },
+    "260": {
+        "line": 260,
+        "type": "timed",
+        "time": "03:20",
+        "date": "31",
+        "month": "Jan",
+        "year": "2020",
+        "duration": "3:25:29",
+        "comment": ""
+    },
+    "261": {
+        "line": 261,
+        "type": "timed",
+        "time": "02:04",
+        "date": "01",
+        "month": "Feb",
+        "year": "2020",
+        "duration": "2:00:00",
+        "comment": "About half an hour afting starting the timer i had to restart my computer because it was playing up. I manually added an extra 30 minutes to the duration to account for lost time"
+    },
+    "262": {
+        "line": 262,
+        "type": "timed",
+        "time": "03:44",
+        "date": "03",
+        "month": "Feb",
+        "year": "2020",
+        "duration": "2:33:35",
+        "comment": ""
+    },
+    "263": {
+        "line": 263,
+        "type": "timed",
+        "time": "00:36",
+        "date": "04",
+        "month": "Feb",
+        "year": "2020",
+        "duration": "1:10:26",
+        "comment": ""
+    },
+    "264": {
+        "line": 264,
+        "type": "timed",
+        "time": "01:23",
+        "date": "05",
+        "month": "Feb",
+        "year": "2020",
+        "duration": "0:44:32",
+        "comment": ""
+    },
+    "265": {
+        "line": 265,
+        "type": "timed",
+        "time": "04:03",
+        "date": "07",
+        "month": "Feb",
+        "year": "2020",
+        "duration": "3:35:13",
+        "comment": ""
+    },
+    "266": {
+        "line": 266,
+        "type": "timed",
+        "time": "02:18",
+        "date": "10",
+        "month": "Feb",
+        "year": "2020",
+        "duration": "1:12:33",
+        "comment": ""
+    },
+    "267": {
+        "line": 267,
+        "type": "timed",
+        "time": "03:17",
+        "date": "12",
+        "month": "Feb",
+        "year": "2020",
+        "duration": "2:34:06",
+        "comment": ""
+    },
+    "268": {
+        "line": 268,
+        "type": "timed",
+        "time": "01:44",
+        "date": "14",
+        "month": "Feb",
+        "year": "2020",
+        "duration": "0:52:42",
+        "comment": ""
+    },
+    "269": {
+        "line": 269,
+        "type": "timed",
+        "time": "01:26",
+        "date": "17",
+        "month": "Feb",
+        "year": "2020",
+        "duration": "1:54:49",
+        "comment": ""
+    },
+    "270": {
+        "line": 270,
+        "type": "timed",
+        "time": "01:13",
+        "date": "19",
+        "month": "Feb",
+        "year": "2020",
+        "duration": "0:50:00",
+        "comment": ""
+    },
+    "271": {
+        "line": 271,
+        "type": "timed",
+        "time": "02:37",
+        "date": "21",
+        "month": "Feb",
+        "year": "2020",
+        "duration": "3:14:08",
+        "comment": "Worst timed nut of my life"
+    },
+    "272": {
+        "line": 272,
+        "type": "timed",
+        "time": "03:02",
+        "date": "22",
+        "month": "Feb",
+        "year": "2020",
+        "duration": "3:32:01",
+        "comment": ""
+    },
+    "273": {
+        "line": 273,
+        "type": "untimed",
+        "time": "12:30",
+        "date": "23",
+        "month": "Feb",
+        "year": "2020",
+        "comment": ""
+    },
+    "274": {
+        "line": 274,
+        "type": "untimed",
+        "time": "10:30",
+        "date": "24",
+        "month": "Feb",
+        "year": "2020",
+        "comment": ""
+    },
+    "275": {
+        "line": 275,
+        "type": "timed",
+        "time": "03:27",
+        "date": "25",
+        "month": "Feb",
+        "year": "2020",
+        "duration": "2:25:29",
+        "comment": ""
+    },
+    "276": {
+        "line": 276,
+        "type": "timed",
+        "time": "00:48",
+        "date": "28",
+        "month": "Feb",
+        "year": "2020",
+        "duration": "1:13:53",
+        "comment": ""
+    },
+    "277": {
+        "line": 277,
+        "type": "timed",
+        "time": "01:33",
+        "date": "01",
+        "month": "Mar",
+        "year": "2020",
+        "duration": "1:34:18",
+        "comment": ""
+    },
+    "278": {
+        "line": 278,
+        "type": "untimed",
+        "time": "11:40",
+        "date": "02",
+        "month": "Mar",
+        "year": "2020",
+        "comment": ""
+    },
+    "279": {
+        "line": 279,
+        "type": "timed",
+        "time": "03:26",
+        "date": "04",
+        "month": "Mar",
+        "year": "2020",
+        "duration": "3:33:10",
+        "comment": ""
+    },
+    "280": {
+        "line": 280,
+        "type": "untimed",
+        "time": "11:40",
+        "date": "05",
+        "month": "Mar",
+        "year": "2020",
+        "comment": ""
+    },
+    "281": {
+        "line": 281,
+        "type": "timed",
+        "time": "02:27",
+        "date": "07",
+        "month": "Mar",
+        "year": "2020",
+        "duration": "1:46:43",
+        "comment": ""
+    },
+    "282": {
+        "line": 282,
+        "type": "timed",
+        "time": "02:15",
+        "date": "09",
+        "month": "Mar",
+        "year": "2020",
+        "duration": "1:34:12",
+        "comment": ""
+    },
+    "283": {
+        "line": 283,
+        "type": "timed",
+        "time": "01:25",
+        "date": "10",
+        "month": "Mar",
+        "year": "2020",
+        "duration": "1:23:42",
+        "comment": ""
+    },
+    "284": {
+        "line": 284,
+        "type": "timed",
+        "time": "03:02",
+        "date": "11",
+        "month": "Mar",
+        "year": "2020",
+        "duration": "2:24:34",
+        "comment": ""
+    },
+    "285": {
+        "line": 285,
+        "type": "timed",
+        "time": "01:51",
+        "date": "13",
+        "month": "Mar",
+        "year": "2020",
+        "duration": "1:25:45",
+        "comment": ""
+    },
+    "286": {
+        "line": 286,
+        "type": "untimed",
+        "time": "14:10",
+        "date": "13",
+        "month": "Mar",
+        "year": "2020",
+        "comment": ""
+    },
+    "287": {
+        "line": 287,
+        "type": "timed",
+        "time": "01:54",
+        "date": "15",
+        "month": "Mar",
+        "year": "2020",
+        "duration": "1:00:47",
+        "comment": ""
+    },
+    "288": {
+        "line": 288,
+        "type": "timed",
+        "time": "01:32",
+        "date": "19",
+        "month": "Mar",
+        "year": "2020",
+        "duration": "1:42:52",
+        "comment": ""
+    },
+    "289": {
+        "line": 289,
+        "type": "timed",
+        "time": "02:03",
+        "date": "21",
+        "month": "Mar",
+        "year": "2020",
+        "duration": "2:10:18",
+        "comment": ""
+    },
+    "290": {
+        "line": 290,
+        "type": "timed",
+        "time": "02:38",
+        "date": "23",
+        "month": "Mar",
+        "year": "2020",
+        "duration": "1:44:53",
+        "comment": ""
+    },
+    "291": {
+        "line": 291,
+        "type": "timed",
+        "time": "01:24",
+        "date": "24",
+        "month": "Mar",
+        "year": "2020",
+        "duration": "1:10:45",
+        "comment": ""
+    },
+    "292": {
+        "line": 292,
+        "type": "timed",
+        "time": "01:36",
+        "date": "26",
+        "month": "Mar",
+        "year": "2020",
+        "duration": "1:16:18",
+        "comment": ""
+    },
+    "293": {
+        "line": 293,
+        "type": "untimed",
+        "time": "10:55",
+        "date": "26",
+        "month": "Mar",
+        "year": "2020",
+        "comment": ""
+    },
+    "294": {
+        "line": 294,
+        "type": "timed",
+        "time": "00:24",
+        "date": "28",
+        "month": "Mar",
+        "year": "2020",
+        "duration": "0:56:26",
+        "comment": ""
+    },
+    "295": {
+        "line": 295,
+        "type": "timed",
+        "time": "00:37",
+        "date": "29",
+        "month": "Mar",
+        "year": "2020",
+        "duration": "1:17:51",
+        "comment": ""
+    },
+    "296": {
+        "line": 296,
+        "type": "timed",
+        "time": "02:09",
+        "date": "31",
+        "month": "Mar",
+        "year": "2020",
+        "duration": "1:58:23",
+        "comment": ""
+    },
+    "297": {
+        "line": 297,
+        "type": "untimed",
+        "time": "11:20",
+        "date": "31",
+        "month": "Mar",
+        "year": "2020",
+        "comment": ""
+    },
+    "298": {
+        "line": 298,
+        "type": "timed",
+        "time": "02:05",
+        "date": "01",
+        "month": "Apr",
+        "year": "2020",
+        "duration": "1:47:38",
+        "comment": ""
+    },
+    "299": {
+        "line": 299,
+        "type": "untimed",
+        "time": "11:00",
+        "date": "02",
+        "month": "Apr",
+        "year": "2020",
+        "comment": ""
+    },
+    "300": {
+        "line": 300,
+        "type": "timed",
+        "time": "01:42",
+        "date": "04",
+        "month": "Apr",
+        "year": "2020",
+        "duration": "1:46:37",
+        "comment": ""
+    },
+    "301": {
+        "line": 301,
+        "type": "untimed",
+        "time": "9:45",
+        "date": "05",
+        "month": "Apr",
+        "year": "2020",
+        "comment": ""
+    },
+    "302": {
+        "line": 302,
+        "type": "timed",
+        "time": "02:58",
+        "date": "06",
+        "month": "Apr",
+        "year": "2020",
+        "duration": "2:17:29",
+        "comment": ""
+    },
+    "303": {
+        "line": 303,
+        "type": "timed",
+        "time": "02:48",
+        "date": "08",
+        "month": "Apr",
+        "year": "2020",
+        "duration": "2:31:13",
+        "comment": ""
+    },
+    "304": {
+        "line": 304,
+        "type": "untimed",
+        "time": "10:20",
+        "date": "08",
+        "month": "Apr",
+        "year": "2020",
+        "comment": ""
+    },
+    "305": {
+        "line": 305,
+        "type": "untimed",
+        "time": "11:00",
+        "date": "13",
+        "month": "Apr",
+        "year": "2020",
+        "comment": ""
+    },
+    "306": {
+        "line": 306,
+        "type": "timed",
+        "time": "01:00",
+        "date": "15",
+        "month": "Apr",
+        "year": "2020",
+        "duration": "1:06:05",
+        "comment": ""
+    },
+    "307": {
+        "line": 307,
+        "type": "timed",
+        "time": "00:48",
+        "date": "17",
+        "month": "Apr",
+        "year": "2020",
+        "duration": "0:40:10",
+        "comment": ""
+    },
+    "308": {
+        "line": 308,
+        "type": "untimed",
+        "time": "9:50",
+        "date": "17",
+        "month": "Apr",
+        "year": "2020",
+        "comment": ""
+    },
+    "309": {
+        "line": 309,
+        "type": "timed",
+        "time": "01:32",
+        "date": "23",
+        "month": "Apr",
+        "year": "2020",
+        "duration": "1:00:29",
+        "comment": ""
+    },
+    "310": {
+        "line": 310,
+        "type": "untimed",
+        "time": "9:50",
+        "date": "23",
+        "month": "Apr",
+        "year": "2020",
+        "comment": ""
+    },
+    "311": {
+        "line": 311,
+        "type": "timed",
+        "time": "00:48",
+        "date": "27",
+        "month": "Apr",
+        "year": "2020",
+        "duration": "0:59:53",
+        "comment": ""
+    },
+    "312": {
+        "line": 312,
+        "type": "timed",
+        "time": "01:29",
+        "date": "29",
+        "month": "Apr",
+        "year": "2020",
+        "duration": "1:18:08",
+        "comment": ""
+    },
+    "313": {
+        "line": 313,
+        "type": "timed",
+        "time": "00:38",
+        "date": "01",
+        "month": "May",
+        "year": "2020",
+        "duration": "0:38:39",
+        "comment": ""
+    },
+    "314": {
+        "line": 314,
+        "type": "timed",
+        "time": "02:12",
+        "date": "05",
+        "month": "May",
+        "year": "2020",
+        "duration": "2:07:39",
+        "comment": ""
+    },
+    "315": {
+        "line": 315,
+        "type": "timed",
+        "time": "01:38",
+        "date": "07",
+        "month": "May",
+        "year": "2020",
+        "duration": "0:57:43",
+        "comment": ""
+    },
+    "316": {
+        "line": 316,
+        "type": "timed",
+        "time": "01:16",
+        "date": "09",
+        "month": "May",
+        "year": "2020",
+        "duration": "1:11:29",
+        "comment": ""
+    },
+    "317": {
+        "line": 317,
+        "type": "untimed",
+        "time": "21:40",
+        "date": "09",
+        "month": "May",
+        "year": "2020",
+        "comment": ""
+    },
+    "318": {
+        "line": 318,
+        "type": "timed",
+        "time": "01:11",
+        "date": "11",
+        "month": "May",
+        "year": "2020",
+        "duration": "1:07:41",
+        "comment": ""
+    },
+    "319": {
+        "line": 319,
+        "type": "timed",
+        "time": "00:05",
+        "date": "12",
+        "month": "May",
+        "year": "2020",
+        "duration": "0:05:53",
+        "comment": ""
+    },
+    "320": {
+        "line": 320,
+        "type": "timed",
+        "time": "02:27",
+        "date": "14",
+        "month": "May",
+        "year": "2020",
+        "duration": "2:53:17",
+        "comment": ""
+    },
+    "321": {
+        "line": 321,
+        "type": "untimed",
+        "time": "21:20",
+        "date": "14",
+        "month": "May",
+        "year": "2020",
+        "comment": ""
+    },
+    "322": {
+        "line": 322,
+        "type": "untimed",
+        "time": "15:45",
+        "date": "15",
+        "month": "May",
+        "year": "2020",
+        "comment": ""
+    },
+    "323": {
+        "line": 323,
+        "type": "timed",
+        "time": "02:41",
+        "date": "18",
+        "month": "May",
+        "year": "2020",
+        "duration": "2:18:22",
+        "comment": ""
+    },
+    "324": {
+        "line": 324,
+        "type": "timed",
+        "time": "01:33",
+        "date": "21",
+        "month": "May",
+        "year": "2020",
+        "duration": "1:08:27",
+        "comment": ""
+    },
+    "325": {
+        "line": 325,
+        "type": "untimed",
+        "time": "10:30",
+        "date": "22",
+        "month": "May",
+        "year": "2020",
+        "comment": ""
+    },
+    "326": {
+        "line": 326,
+        "type": "timed",
+        "time": "02:32",
+        "date": "25",
+        "month": "May",
+        "year": "2020",
+        "duration": "2:43:32",
+        "comment": ""
+    },
+    "327": {
+        "line": 327,
+        "type": "untimed",
+        "time": "11:40",
+        "date": "27",
+        "month": "May",
+        "year": "2020",
+        "comment": ""
+    },
+    "328": {
+        "line": 328,
+        "type": "timed",
+        "time": "01:35",
+        "date": "29",
+        "month": "May",
+        "year": "2020",
+        "duration": "1:24:36",
+        "comment": ""
+    },
+    "329": {
+        "line": 329,
+        "type": "timed",
+        "time": "03:51",
+        "date": "31",
+        "month": "May",
+        "year": "2020",
+        "duration": "3:35:13",
+        "comment": ""
+    },
+    "330": {
+        "line": 330,
+        "type": "timed",
+        "time": "03:36",
+        "date": "02",
+        "month": "Jun",
+        "year": "2020",
+        "duration": "3:27:25",
+        "comment": ""
+    },
+    "331": {
+        "line": 331,
+        "type": "timed",
+        "time": "01:14",
+        "date": "05",
+        "month": "Jun",
+        "year": "2020",
+        "duration": "1:42:48",
+        "comment": ""
+    },
+    "332": {
+        "line": 332,
+        "type": "untimed",
+        "time": "20:50",
+        "date": "05",
+        "month": "Jun",
+        "year": "2020",
+        "comment": ""
+    },
+    "333": {
+        "line": 333,
+        "type": "timed",
+        "time": "02:03",
+        "date": "07",
+        "month": "Jun",
+        "year": "2020",
+        "duration": "1:02:06",
+        "comment": ""
+    },
+    "334": {
+        "line": 334,
+        "type": "timed",
+        "time": "03:01",
+        "date": "11",
+        "month": "Jun",
+        "year": "2020",
+        "duration": "2:44:00",
+        "comment": ""
+    },
+    "335": {
+        "line": 335,
+        "type": "timed",
+        "time": "02:53",
+        "date": "13",
+        "month": "Jun",
+        "year": "2020",
+        "duration": "2:44:35",
+        "comment": ""
+    },
+    "336": {
+        "line": 336,
+        "type": "timed",
+        "time": "02:57",
+        "date": "15",
+        "month": "Jun",
+        "year": "2020",
+        "duration": "3:18:43",
+        "comment": ""
+    },
+    "337": {
+        "line": 337,
+        "type": "timed",
+        "time": "00:56",
+        "date": "16",
+        "month": "Jun",
+        "year": "2020",
+        "duration": "0:30:37",
+        "comment": ""
+    },
+    "338": {
+        "line": 338,
+        "type": "timed",
+        "time": "02:36",
+        "date": "17",
+        "month": "Jun",
+        "year": "2020",
+        "duration": "1:57:52",
+        "comment": ""
+    },
+    "339": {
+        "line": 339,
+        "type": "timed",
+        "time": "01:11",
+        "date": "19",
+        "month": "Jun",
+        "year": "2020",
+        "duration": "0:47:46",
+        "comment": ""
+    },
+    "340": {
+        "line": 340,
+        "type": "timed",
+        "time": "01:33",
+        "date": "21",
+        "month": "Jun",
+        "year": "2020",
+        "duration": "1:50:51",
+        "comment": ""
+    },
+    "341": {
+        "line": 341,
+        "type": "timed",
+        "time": "01:05",
+        "date": "24",
+        "month": "Jun",
+        "year": "2020",
+        "duration": "1:35:43",
+        "comment": ""
+    },
+    "342": {
+        "line": 342,
+        "type": "untimed",
+        "time": "20:50",
+        "date": "24",
+        "month": "Jun",
+        "year": "2020",
+        "comment": ""
+    },
+    "343": {
+        "line": 343,
+        "type": "timed",
+        "time": "02:18",
+        "date": "27",
+        "month": "Jun",
+        "year": "2020",
+        "duration": "2:04:02",
+        "comment": ""
+    },
+    "344": {
+        "line": 344,
+        "type": "timed",
+        "time": "01:30",
+        "date": "28",
+        "month": "Jun",
+        "year": "2020",
+        "duration": "0:49:08",
+        "comment": ""
+    },
+    "345": {
+        "line": 345,
+        "type": "timed",
+        "time": "01:18",
+        "date": "30",
+        "month": "Jun",
+        "year": "2020",
+        "duration": "1:15:14",
+        "comment": ""
+    },
+    "346": {
+        "line": 346,
+        "type": "timed",
+        "time": "02:10",
+        "date": "02",
+        "month": "Jul",
+        "year": "2020",
+        "duration": "3:04:50",
+        "comment": ""
+    },
+    "347": {
+        "line": 347,
+        "type": "untimed",
+        "time": "21:15",
+        "date": "02",
+        "month": "Jul",
+        "year": "2020",
+        "comment": ""
+    },
+    "348": {
+        "line": 348,
+        "type": "timed",
+        "time": "02:22",
+        "date": "05",
+        "month": "Jul",
+        "year": "2020",
+        "duration": "2:45:59",
+        "comment": ""
+    },
+    "349": {
+        "line": 349,
+        "type": "timed",
+        "time": "03:27",
+        "date": "07",
+        "month": "Jul",
+        "year": "2020",
+        "duration": "3:18:47",
+        "comment": ""
+    },
+    "350": {
+        "line": 350,
+        "type": "timed",
+        "time": "02:58",
+        "date": "09",
+        "month": "Jul",
+        "year": "2020",
+        "duration": "2:58:23",
+        "comment": ""
+    },
+    "351": {
+        "line": 351,
+        "type": "timed",
+        "time": "01:36",
+        "date": "10",
+        "month": "Jul",
+        "year": "2020",
+        "duration": "1:29:24",
+        "comment": ""
+    },
+    "352": {
+        "line": 352,
+        "type": "timed",
+        "time": "02:47",
+        "date": "12",
+        "month": "Jul",
+        "year": "2020",
+        "duration": "2:40:40",
+        "comment": "I was looking at porno for 3 hours without wanking before starting the timer. So if i counted that time it would be over 5 and a half hours in total"
+    },
+    "353": {
+        "line": 353,
+        "type": "timed",
+        "time": "02:16",
+        "date": "14",
+        "month": "Jul",
+        "year": "2020",
+        "duration": "3:02:51",
+        "comment": ""
+    },
+    "354": {
+        "line": 354,
+        "type": "timed",
+        "time": "00:40",
+        "date": "15",
+        "month": "Jul",
+        "year": "2020",
+        "duration": "0:36:07",
+        "comment": ""
+    },
+    "355": {
+        "line": 355,
+        "type": "untimed",
+        "time": "21:50",
+        "date": "15",
+        "month": "Jul",
+        "year": "2020",
+        "comment": ""
+    },
+    "356": {
+        "line": 356,
+        "type": "timed",
+        "time": "03:05",
+        "date": "18",
+        "month": "Jul",
+        "year": "2020",
+        "duration": "2:51:15",
+        "comment": ""
+    },
+    "357": {
+        "line": 357,
+        "type": "untimed",
+        "time": "10:37",
+        "date": "18",
+        "month": "Jul",
+        "year": "2020",
+        "comment": ""
+    },
+    "358": {
+        "line": 358,
+        "type": "timed",
+        "time": "02:11",
+        "date": "20",
+        "month": "Jul",
+        "year": "2020",
+        "duration": "2:47:56",
+        "comment": ""
+    },
+    "359": {
+        "line": 359,
+        "type": "timed",
+        "time": "01:49",
+        "date": "23",
+        "month": "Jul",
+        "year": "2020",
+        "duration": "1:23:00",
+        "comment": ""
+    },
+    "360": {
+        "line": 360,
+        "type": "untimed",
+        "time": "10:20",
+        "date": "23",
+        "month": "Jul",
+        "year": "2020",
+        "comment": ""
+    },
+    "361": {
+        "line": 361,
+        "type": "timed",
+        "time": "00:50",
+        "date": "27",
+        "month": "Jul",
+        "year": "2020",
+        "duration": "0:34:31",
+        "comment": ""
+    },
+    "362": {
+        "line": 362,
+        "type": "untimed",
+        "time": "20:00",
+        "date": "27",
+        "month": "Jul",
+        "year": "2020",
+        "comment": ""
+    },
+    "363": {
+        "line": 363,
+        "type": "timed",
+        "time": "01:08",
+        "date": "31",
+        "month": "Jul",
+        "year": "2020",
+        "duration": "1:50:16",
+        "comment": ""
+    },
+    "364": {
+        "line": 364,
+        "type": "timed",
+        "time": "02:08",
+        "date": "02",
+        "month": "Aug",
+        "year": "2020",
+        "duration": "1:39:11",
+        "comment": ""
+    },
+    "365": {
+        "line": 365,
+        "type": "timed",
+        "time": "01:41",
+        "date": "03",
+        "month": "Aug",
+        "year": "2020",
+        "duration": "2:20:12",
+        "comment": ""
+    },
+    "366": {
+        "line": 366,
+        "type": "untimed",
+        "time": "11:10",
+        "date": "04",
+        "month": "Aug",
+        "year": "2020",
+        "comment": ""
+    },
+    "367": {
+        "line": 367,
+        "type": "timed",
+        "time": "03:10",
+        "date": "06",
+        "month": "Aug",
+        "year": "2020",
+        "duration": "2:38:26",
+        "comment": ""
+    },
+    "368": {
+        "line": 368,
+        "type": "timed",
+        "time": "02:51",
+        "date": "08",
+        "month": "Aug",
+        "year": "2020",
+        "duration": "2:30:13",
+        "comment": ""
+    },
+    "369": {
+        "line": 369,
+        "type": "untimed",
+        "time": "20:30",
+        "date": "09",
+        "month": "Aug",
+        "year": "2020",
+        "comment": ""
+    },
+    "370": {
+        "line": 370,
+        "type": "timed",
+        "time": "01:06",
+        "date": "11",
+        "month": "Aug",
+        "year": "2020",
+        "duration": "0:48:41",
+        "comment": ""
+    },
+    "371": {
+        "line": 371,
+        "type": "timed",
+        "time": "03:01",
+        "date": "13",
+        "month": "Aug",
+        "year": "2020",
+        "duration": "2:44:01",
+        "comment": ""
+    },
+    "372": {
+        "line": 372,
+        "type": "timed",
+        "time": "01:07",
+        "date": "14",
+        "month": "Aug",
+        "year": "2020",
+        "duration": "0:38:12",
+        "comment": ""
+    },
+    "373": {
+        "line": 373,
+        "type": "timed",
+        "time": "03:03",
+        "date": "15",
+        "month": "Aug",
+        "year": "2020",
+        "duration": "3:01:53",
+        "comment": ""
+    },
+    "374": {
+        "line": 374,
+        "type": "timed",
+        "time": "03:15",
+        "date": "17",
+        "month": "Aug",
+        "year": "2020",
+        "duration": "2:54:48",
+        "comment": ""
+    },
+    "375": {
+        "line": 375,
+        "type": "untimed",
+        "time": "20:45",
+        "date": "17",
+        "month": "Aug",
+        "year": "2020",
+        "comment": ""
+    },
+    "376": {
+        "line": 376,
+        "type": "untimed",
+        "time": "20:00",
+        "date": "18",
+        "month": "Aug",
+        "year": "2020",
+        "comment": ""
+    },
+    "377": {
+        "line": 377,
+        "type": "timed",
+        "time": "02:21",
+        "date": "20",
+        "month": "Aug",
+        "year": "2020",
+        "duration": "0:09:49",
+        "comment": ""
+    },
+    "378": {
+        "line": 378,
+        "type": "timed",
+        "time": "01:24",
+        "date": "25",
+        "month": "Aug",
+        "year": "2020",
+        "duration": "0:50:14",
+        "comment": ""
+    },
+    "379": {
+        "line": 379,
+        "type": "untimed",
+        "time": "13:15",
+        "date": "27",
+        "month": "Aug",
+        "year": "2020",
+        "comment": ""
+    },
+    "380": {
+        "line": 380,
+        "type": "untimed",
+        "time": "12:50",
+        "date": "28",
+        "month": "Aug",
+        "year": "2020",
+        "comment": ""
+    },
+    "381": {
+        "line": 381,
+        "type": "timed",
+        "time": "02:06",
+        "date": "03",
+        "month": "Sep",
+        "year": "2020",
+        "duration": "1:55:32",
+        "comment": ""
+    },
+    "382": {
+        "line": 382,
+        "type": "untimed",
+        "time": "20:40",
+        "date": "06",
+        "month": "Sep",
+        "year": "2020",
+        "comment": ""
+    },
+    "383": {
+        "line": 383,
+        "type": "timed",
+        "time": "01:20",
+        "date": "08",
+        "month": "Sep",
+        "year": "2020",
+        "duration": "1:03:14",
+        "comment": ""
+    },
+    "384": {
+        "line": 384,
+        "type": "untimed",
+        "time": "10:30",
+        "date": "08",
+        "month": "Sep",
+        "year": "2020",
+        "comment": ""
+    },
+    "385": {
+        "line": 385,
+        "type": "timed",
+        "time": "01:49",
+        "date": "10",
+        "month": "Sep",
+        "year": "2020",
+        "duration": "1:09:11",
+        "comment": ""
+    },
+    "386": {
+        "line": 386,
+        "type": "timed",
+        "time": "01:41",
+        "date": "12",
+        "month": "Sep",
+        "year": "2020",
+        "duration": "1:28:11",
+        "comment": ""
+    },
+    "387": {
+        "line": 387,
+        "type": "timed",
+        "time": "01:33",
+        "date": "13",
+        "month": "Sep",
+        "year": "2020",
+        "duration": "1:15:03",
+        "comment": ""
+    },
+    "388": {
+        "line": 388,
+        "type": "timed",
+        "time": "00:57",
+        "date": "16",
+        "month": "Sep",
+        "year": "2020",
+        "duration": "1:02:47",
+        "comment": ""
+    },
+    "389": {
+        "line": 389,
+        "type": "untimed",
+        "time": "11:15",
+        "date": "17",
+        "month": "Sep",
+        "year": "2020",
+        "comment": ""
+    },
+    "390": {
+        "line": 390,
+        "type": "timed",
+        "time": "02:47",
+        "date": "20",
+        "month": "Sep",
+        "year": "2020",
+        "duration": "2:42:58",
+        "comment": ""
+    },
+    "391": {
+        "line": 391,
+        "type": "timed",
+        "time": "00:33",
+        "date": "21",
+        "month": "Sep",
+        "year": "2020",
+        "duration": "0:38:16",
+        "comment": ""
+    },
+    "392": {
+        "line": 392,
+        "type": "untimed",
+        "time": "11:05",
+        "date": "21",
+        "month": "Sep",
+        "year": "2020",
+        "comment": ""
+    },
+    "393": {
+        "line": 393,
+        "type": "timed",
+        "time": "01:38",
+        "date": "23",
+        "month": "Sep",
+        "year": "2020",
+        "duration": "1:41:56",
+        "comment": ""
+    },
+    "394": {
+        "line": 394,
+        "type": "untimed",
+        "time": "11:40",
+        "date": "24",
+        "month": "Sep",
+        "year": "2020",
+        "comment": ""
+    },
+    "395": {
+        "line": 395,
+        "type": "timed",
+        "time": "00:37",
+        "date": "25",
+        "month": "Sep",
+        "year": "2020",
+        "duration": "1:24:13",
+        "comment": ""
+    },
+    "396": {
+        "line": 396,
+        "type": "untimed",
+        "time": "10:15",
+        "date": "25",
+        "month": "Sep",
+        "year": "2020",
+        "comment": ""
+    },
+    "397": {
+        "line": 397,
+        "type": "untimed",
+        "time": "12:21",
+        "date": "26",
+        "month": "Sep",
+        "year": "2020",
+        "comment": ""
+    },
+    "398": {
+        "line": 398,
+        "type": "untimed",
+        "time": "20:50",
+        "date": "26",
+        "month": "Sep",
+        "year": "2020",
+        "comment": ""
+    },
+    "399": {
+        "line": 399,
+        "type": "timed",
+        "time": "02:36",
+        "date": "28",
+        "month": "Sep",
+        "year": "2020",
+        "duration": "2:39:11",
+        "comment": ""
+    },
+    "400": {
+        "line": 400,
+        "type": "timed",
+        "time": "02:30",
+        "date": "30",
+        "month": "Sep",
+        "year": "2020",
+        "duration": "3:31:21",
+        "comment": ""
+    },
+    "401": {
+        "line": 401,
+        "type": "timed",
+        "time": "02:55",
+        "date": "01",
+        "month": "Oct",
+        "year": "2020",
+        "duration": "2:29:26",
+        "comment": ""
+    },
+    "402": {
+        "line": 402,
+        "type": "timed",
+        "time": "01:03",
+        "date": "03",
+        "month": "Oct",
+        "year": "2020",
+        "duration": "1:22:26",
+        "comment": ""
+    },
+    "403": {
+        "line": 403,
+        "type": "timed",
+        "time": "01:21",
+        "date": "04",
+        "month": "Oct",
+        "year": "2020",
+        "duration": "0:58:27",
+        "comment": ""
+    },
+    "404": {
+        "line": 404,
+        "type": "timed",
+        "time": "01:33",
+        "date": "06",
+        "month": "Oct",
+        "year": "2020",
+        "duration": "2:38:30",
+        "comment": ""
+    },
+    "405": {
+        "line": 405,
+        "type": "untimed",
+        "time": "11:15",
+        "date": "06",
+        "month": "Oct",
+        "year": "2020",
+        "comment": ""
+    },
+    "406": {
+        "line": 406,
+        "type": "untimed",
+        "time": "20:35",
+        "date": "06",
+        "month": "Oct",
+        "year": "2020",
+        "comment": ""
+    },
+    "407": {
+        "line": 407,
+        "type": "timed",
+        "time": "02:32",
+        "date": "08",
+        "month": "Oct",
+        "year": "2020",
+        "duration": "2:58:42",
+        "comment": ""
+    },
+    "408": {
+        "line": 408,
+        "type": "untimed",
+        "time": "20:25",
+        "date": "08",
+        "month": "Oct",
+        "year": "2020",
+        "comment": ""
+    },
+    "409": {
+        "line": 409,
+        "type": "timed",
+        "time": "00:32",
+        "date": "10",
+        "month": "Oct",
+        "year": "2020",
+        "duration": "0:59:51",
+        "comment": ""
+    },
+    "410": {
+        "line": 410,
+        "type": "untimed",
+        "time": "9:50",
+        "date": "10",
+        "month": "Oct",
+        "year": "2020",
+        "comment": ""
+    },
+    "411": {
+        "line": 411,
+        "type": "timed",
+        "time": "02:37",
+        "date": "13",
+        "month": "Oct",
+        "year": "2020",
+        "duration": "2:33:35",
+        "comment": ""
+    },
+    "412": {
+        "line": 412,
+        "type": "untimed",
+        "time": "10:42",
+        "date": "13",
+        "month": "Oct",
+        "year": "2020",
+        "comment": ""
+    },
+    "413": {
+        "line": 413,
+        "type": "timed",
+        "time": "00:39",
+        "date": "16",
+        "month": "Oct",
+        "year": "2020",
+        "duration": "1:11:54",
+        "comment": ""
+    },
+    "414": {
+        "line": 414,
+        "type": "untimed",
+        "time": "10:22",
+        "date": "17",
+        "month": "Oct",
+        "year": "2020",
+        "comment": ""
+    },
+    "415": {
+        "line": 415,
+        "type": "untimed",
+        "time": "9:40",
+        "date": "20",
+        "month": "Oct",
+        "year": "2020",
+        "comment": ""
+    },
+    "416": {
+        "line": 416,
+        "type": "untimed",
+        "time": "9:25",
+        "date": "22",
+        "month": "Oct",
+        "year": "2020",
+        "comment": ""
+    },
+    "417": {
+        "line": 417,
+        "type": "timed",
+        "time": "00:40",
+        "date": "26",
+        "month": "Oct",
+        "year": "2020",
+        "duration": "0:44:00",
+        "comment": ""
+    },
+    "418": {
+        "line": 418,
+        "type": "timed",
+        "time": "03:16",
+        "date": "28",
+        "month": "Oct",
+        "year": "2020",
+        "duration": "3:12:38",
+        "comment": ""
+    },
+    "419": {
+        "line": 419,
+        "type": "untimed",
+        "time": "22:20",
+        "date": "28",
+        "month": "Oct",
+        "year": "2020",
+        "comment": ""
+    },
+    "420": {
+        "line": 420,
+        "type": "untimed",
+        "time": "9:25",
+        "date": "30",
+        "month": "Oct",
+        "year": "2020",
+        "comment": ""
+    },
+    "421": {
+        "line": 421,
+        "type": "untimed",
+        "time": "21:00",
+        "date": "31",
+        "month": "Oct",
+        "year": "2020",
+        "comment": ""
+    },
+    "422": {
+        "line": 422,
+        "type": "untimed",
+        "time": "11:23",
+        "date": "03",
+        "month": "Nov",
+        "year": "2020",
+        "comment": ""
+    },
+    "423": {
+        "line": 423,
+        "type": "timed",
+        "time": "03:12",
+        "date": "04",
+        "month": "Nov",
+        "year": "2020",
+        "duration": "2:35:51",
+        "comment": ""
+    },
+    "424": {
+        "line": 424,
+        "type": "untimed",
+        "time": "20:40",
+        "date": "05",
+        "month": "Nov",
+        "year": "2020",
+        "comment": ""
+    },
+    "425": {
+        "line": 425,
+        "type": "untimed",
+        "time": "10:03",
+        "date": "06",
+        "month": "Nov",
+        "year": "2020",
+        "comment": ""
+    },
+    "426": {
+        "line": 426,
+        "type": "timed",
+        "time": "02:53",
+        "date": "08",
+        "month": "Nov",
+        "year": "2020",
+        "duration": "2:39:53",
+        "comment": ""
+    },
+    "427": {
+        "line": 427,
+        "type": "timed",
+        "time": "00:12",
+        "date": "09",
+        "month": "Nov",
+        "year": "2020",
+        "duration": "0:21:51",
+        "comment": ""
+    },
+    "428": {
+        "line": 428,
+        "type": "timed",
+        "time": "01:59",
+        "date": "10",
+        "month": "Nov",
+        "year": "2020",
+        "duration": "1:38:27",
+        "comment": ""
+    },
+    "429": {
+        "line": 429,
+        "type": "untimed",
+        "time": "9:00",
+        "date": "10",
+        "month": "Nov",
+        "year": "2020",
+        "comment": ""
+    },
+    "430": {
+        "line": 430,
+        "type": "untimed",
+        "time": "11:23",
+        "date": "11",
+        "month": "Nov",
+        "year": "2020",
+        "comment": ""
+    },
+    "431": {
+        "line": 431,
+        "type": "timed",
+        "time": "01:09",
+        "date": "14",
+        "month": "Nov",
+        "year": "2020",
+        "duration": "1:26:11",
+        "comment": ""
+    },
+    "432": {
+        "line": 432,
+        "type": "timed",
+        "time": "02:10",
+        "date": "16",
+        "month": "Nov",
+        "year": "2020",
+        "duration": "2:18:39",
+        "comment": ""
+    },
+    "433": {
+        "line": 433,
+        "type": "timed",
+        "time": "00:58",
+        "date": "18",
+        "month": "Nov",
+        "year": "2020",
+        "duration": "0:33:51",
+        "comment": ""
+    },
+    "434": {
+        "line": 434,
+        "type": "untimed",
+        "time": "11:00",
+        "date": "18",
+        "month": "Nov",
+        "year": "2020",
+        "comment": ""
+    },
+    "435": {
+        "line": 435,
+        "type": "timed",
+        "time": "00:49",
+        "date": "19",
+        "month": "Nov",
+        "year": "2020",
+        "duration": "1:03:16",
+        "comment": ""
+    },
+    "436": {
+        "line": 436,
+        "type": "untimed",
+        "time": "9:59",
+        "date": "20",
+        "month": "Nov",
+        "year": "2020",
+        "comment": ""
+    },
+    "437": {
+        "line": 437,
+        "type": "timed",
+        "time": "01:18",
+        "date": "21",
+        "month": "Nov",
+        "year": "2020",
+        "duration": "0:12:53",
+        "comment": ""
+    },
+    "438": {
+        "line": 438,
+        "type": "timed",
+        "time": "01:47",
+        "date": "23",
+        "month": "Nov",
+        "year": "2020",
+        "duration": "1:50:15",
+        "comment": ""
+    },
+    "439": {
+        "line": 439,
+        "type": "untimed",
+        "time": "10:20",
+        "date": "23",
+        "month": "Nov",
+        "year": "2020",
+        "comment": ""
+    },
+    "440": {
+        "line": 440,
+        "type": "timed",
+        "time": "02:19",
+        "date": "25",
+        "month": "Nov",
+        "year": "2020",
+        "duration": "1:29:52",
+        "comment": ""
+    },
+    "441": {
+        "line": 441,
+        "type": "timed",
+        "time": "00:45",
+        "date": "26",
+        "month": "Nov",
+        "year": "2020",
+        "duration": "1:38:08",
+        "comment": ""
+    },
+    "442": {
+        "line": 442,
+        "type": "timed",
+        "time": "02:29",
+        "date": "28",
+        "month": "Nov",
+        "year": "2020",
+        "duration": "2:39:55",
+        "comment": ""
+    },
+    "443": {
+        "line": 443,
+        "type": "timed",
+        "time": "01:32",
+        "date": "01",
+        "month": "Dec",
+        "year": "2020",
+        "duration": "1:04:41",
+        "comment": ""
+    },
+    "444": {
+        "line": 444,
+        "type": "timed",
+        "time": "03:03",
+        "date": "02",
+        "month": "Dec",
+        "year": "2020",
+        "duration": "3:29:24",
+        "comment": ""
+    },
+    "445": {
+        "line": 445,
+        "type": "timed",
+        "time": "02:23",
+        "date": "04",
+        "month": "Dec",
+        "year": "2020",
+        "duration": "2:03:54",
+        "comment": ""
+    },
+    "446": {
+        "line": 446,
+        "type": "untimed",
+        "time": "10:10",
+        "date": "04",
+        "month": "Dec",
+        "year": "2020",
+        "comment": ""
+    },
+    "447": {
+        "line": 447,
+        "type": "timed",
+        "time": "03:27",
+        "date": "06",
+        "month": "Dec",
+        "year": "2020",
+        "duration": "3:40:38",
+        "comment": ""
+    },
+    "448": {
+        "line": 448,
+        "type": "timed",
+        "time": "00:53",
+        "date": "08",
+        "month": "Dec",
+        "year": "2020",
+        "duration": "0:25:07",
+        "comment": ""
+    },
+    "449": {
+        "line": 449,
+        "type": "untimed",
+        "time": "10:55",
+        "date": "10",
+        "month": "Dec",
+        "year": "2020",
+        "comment": ""
+    },
+    "450": {
+        "line": 450,
+        "type": "timed",
+        "time": "02:01",
+        "date": "13",
+        "month": "Dec",
+        "year": "2020",
+        "duration": "1:42:08",
+        "comment": ""
+    },
+    "451": {
+        "line": 451,
+        "type": "timed",
+        "time": "00:39",
+        "date": "14",
+        "month": "Dec",
+        "year": "2020",
+        "duration": "1:22:48",
+        "comment": ""
+    },
+    "452": {
+        "line": 452,
+        "type": "timed",
+        "time": "00:03",
+        "date": "15",
+        "month": "Dec",
+        "year": "2020",
+        "duration": "0:34:48",
+        "comment": ""
+    },
+    "453": {
+        "line": 453,
+        "type": "timed",
+        "time": "00:22",
+        "date": "15",
+        "month": "Dec",
+        "year": "2020",
+        "duration": "0:02:20",
+        "comment": ""
+    },
+    "454": {
+        "line": 454,
+        "type": "untimed",
+        "time": "11:32",
+        "date": "15",
+        "month": "Dec",
+        "year": "2020",
+        "comment": ""
+    },
+    "455": {
+        "line": 455,
+        "type": "timed",
+        "time": "00:32",
+        "date": "16",
+        "month": "Dec",
+        "year": "2020",
+        "duration": "0:30:59",
+        "comment": ""
+    },
+    "456": {
+        "line": 456,
+        "type": "timed",
+        "time": "02:47",
+        "date": "18",
+        "month": "Dec",
+        "year": "2020",
+        "duration": "2:38:53",
+        "comment": ""
+    },
+    "457": {
+        "line": 457,
+        "type": "timed",
+        "time": "02:28",
+        "date": "19",
+        "month": "Dec",
+        "year": "2020",
+        "duration": "2:45:17",
+        "comment": ""
+    },
+    "458": {
+        "line": 458,
+        "type": "untimed",
+        "time": "9:45",
+        "date": "20",
+        "month": "Dec",
+        "year": "2020",
+        "comment": ""
+    },
+    "459": {
+        "line": 459,
+        "type": "untimed",
+        "time": "20:50",
+        "date": "20",
+        "month": "Dec",
+        "year": "2020",
+        "comment": ""
+    },
+    "460": {
+        "line": 460,
+        "type": "timed",
+        "time": "00:59",
+        "date": "22",
+        "month": "Dec",
+        "year": "2020",
+        "duration": "1:24:52",
+        "comment": ""
+    },
+    "461": {
+        "line": 461,
+        "type": "timed",
+        "time": "00:14",
+        "date": "23",
+        "month": "Dec",
+        "year": "2020",
+        "duration": "0:43:42",
+        "comment": ""
+    },
+    "462": {
+        "line": 462,
+        "type": "timed",
+        "time": "02:23",
+        "date": "24",
+        "month": "Dec",
+        "year": "2020",
+        "duration": "3:01:31",
+        "comment": ""
+    },
+    "463": {
+        "line": 463,
+        "type": "timed",
+        "time": "03:24",
+        "date": "27",
+        "month": "Dec",
+        "year": "2020",
+        "duration": "3:13:14",
+        "comment": ""
+    },
+    "464": {
+        "line": 464,
+        "type": "timed",
+        "time": "01:55",
+        "date": "28",
+        "month": "Dec",
+        "year": "2020",
+        "duration": "1:51:28",
+        "comment": ""
+    },
+    "465": {
+        "line": 465,
+        "type": "timed",
+        "time": "02:24",
+        "date": "31",
+        "month": "Dec",
+        "year": "2020",
+        "duration": "2:56:06",
+        "comment": ""
+    },
+    "466": {
+        "line": 466,
+        "type": "untimed",
+        "time": "09:45",
+        "date": "31",
+        "month": "Dec",
+        "year": "2020",
+        "comment": ""
+    },
+    "467": {
+        "line": 467,
+        "type": "timed",
+        "time": "00:00",
+        "date": "01",
+        "month": "Jan",
+        "year": "2021",
+        "duration": "0:23:12",
+        "comment": "New years fireworks went off as i was nutting. HAPPY NEW YEAR :D"
+    },
+    "468": {
+        "line": 468,
+        "type": "timed",
+        "time": "03:17",
+        "date": "02",
+        "month": "Jan",
+        "year": "2021",
+        "duration": "3:19:15",
+        "comment": ""
+    },
+    "469": {
+        "line": 469,
+        "type": "timed",
+        "time": "01:10",
+        "date": "04",
+        "month": "Jan",
+        "year": "2021",
+        "duration": "1:33:09",
+        "comment": ""
+    },
+    "470": {
+        "line": 470,
+        "type": "timed",
+        "time": "02:58",
+        "date": "06",
+        "month": "Jan",
+        "year": "2021",
+        "duration": "2:56:58",
+        "comment": ""
+    },
+    "471": {
+        "line": 471,
+        "type": "untimed",
+        "time": "20:10",
+        "date": "06",
+        "month": "Jan",
+        "year": "2021",
+        "comment": ""
+    },
+    "472": {
+        "line": 472,
+        "type": "untimed",
+        "time": "22:30",
+        "date": "07",
+        "month": "Jan",
+        "year": "2021",
+        "comment": ""
+    },
+    "473": {
+        "line": 473,
+        "type": "untimed",
+        "time": "13:00",
+        "date": "08",
+        "month": "Jan",
+        "year": "2021",
+        "comment": ""
+    },
+    "474": {
+        "line": 474,
+        "type": "timed",
+        "time": "02:20",
+        "date": "10",
+        "month": "Jan",
+        "year": "2021",
+        "duration": "2:42:38",
+        "comment": ""
+    },
+    "475": {
+        "line": 475,
+        "type": "untimed",
+        "time": "22:00",
+        "date": "10",
+        "month": "Jan",
+        "year": "2021",
+        "comment": ""
+    },
+    "476": {
+        "line": 476,
+        "type": "untimed",
+        "time": "20:50",
+        "date": "11",
+        "month": "Jan",
+        "year": "2021",
+        "comment": ""
+    },
+    "477": {
+        "line": 477,
+        "type": "untimed",
+        "time": "21:10",
+        "date": "13",
+        "month": "Jan",
+        "year": "2021",
+        "comment": ""
+    },
+    "478": {
+        "line": 478,
+        "type": "untimed",
+        "time": "20:55",
+        "date": "14",
+        "month": "Jan",
+        "year": "2021",
+        "comment": ""
+    },
+    "479": {
+        "line": 479,
+        "type": "timed",
+        "time": "00:02",
+        "date": "16",
+        "month": "Jan",
+        "year": "2021",
+        "duration": "0:34:09",
+        "comment": ""
+    },
+    "480": {
+        "line": 480,
+        "type": "untimed",
+        "time": "9:40",
+        "date": "17",
+        "month": "Jan",
+        "year": "2021",
+        "comment": ""
+    },
+    "481": {
+        "line": 481,
+        "type": "untimed",
+        "time": "9:20",
+        "date": "19",
+        "month": "Jan",
+        "year": "2021",
+        "comment": ""
+    },
+    "482": {
+        "line": 482,
+        "type": "timed",
+        "time": "00:55",
+        "date": "23",
+        "month": "Jan",
+        "year": "2021",
+        "duration": "0:17:17",
+        "comment": ""
+    },
+    "483": {
+        "line": 483,
+        "type": "timed",
+        "time": "02:30",
+        "date": "24",
+        "month": "Jan",
+        "year": "2021",
+        "duration": "1:54:18",
+        "comment": ""
+    },
+    "484": {
+        "line": 484,
+        "type": "untimed",
+        "time": "10:50",
+        "date": "25",
+        "month": "Jan",
+        "year": "2021",
+        "comment": ""
+    },
+    "485": {
+        "line": 485,
+        "type": "timed",
+        "time": "01:00",
+        "date": "27",
+        "month": "Jan",
+        "year": "2021",
+        "duration": "1:10:57",
+        "comment": ""
+    },
+    "486": {
+        "line": 486,
+        "type": "untimed",
+        "time": "9:25",
+        "date": "27",
+        "month": "Jan",
+        "year": "2021",
+        "comment": ""
+    },
+    "487": {
+        "line": 487,
+        "type": "timed",
+        "time": "01:33",
+        "date": "28",
+        "month": "Jan",
+        "year": "2021",
+        "duration": "1:25:15",
+        "comment": ""
+    },
+    "488": {
+        "line": 488,
+        "type": "timed",
+        "time": "23:53",
+        "date": "28",
+        "month": "Jan",
+        "year": "2021",
+        "duration": "0:37:43",
+        "comment": ""
+    },
+    "489": {
+        "line": 489,
+        "type": "untimed",
+        "time": "10:11",
+        "date": "29",
+        "month": "Jan",
+        "year": "2021",
+        "comment": ""
+    },
+    "490": {
+        "line": 490,
+        "type": "timed",
+        "time": "02:28",
+        "date": "31",
+        "month": "Jan",
+        "year": "2021",
+        "duration": "3:06:10",
+        "comment": ""
+    },
+    "491": {
+        "line": 491,
+        "type": "timed",
+        "time": "01:37",
+        "date": "01",
+        "month": "Feb",
+        "year": "2021",
+        "duration": "1:39:36",
+        "comment": ""
+    },
+    "492": {
+        "line": 492,
+        "type": "timed",
+        "time": "01:07",
+        "date": "03",
+        "month": "Feb",
+        "year": "2021",
+        "duration": "1:35:20",
+        "comment": ""
+    },
+    "493": {
+        "line": 493,
+        "type": "untimed",
+        "time": "10:45",
+        "date": "03",
+        "month": "Feb",
+        "year": "2021",
+        "comment": ""
+    },
+    "494": {
+        "line": 494,
+        "type": "timed",
+        "time": "00:03",
+        "date": "05",
+        "month": "Feb",
+        "year": "2021",
+        "duration": "0:37:44",
+        "comment": ""
+    },
+    "495": {
+        "line": 495,
+        "type": "untimed",
+        "time": "10:00",
+        "date": "06",
+        "month": "Feb",
+        "year": "2021",
+        "comment": ""
+    },
+    "496": {
+        "line": 496,
+        "type": "timed",
+        "time": "00:43",
+        "date": "08",
+        "month": "Feb",
+        "year": "2021",
+        "duration": "1:17:20",
+        "comment": ""
+    },
+    "497": {
+        "line": 497,
+        "type": "untimed",
+        "time": "7:49",
+        "date": "09",
+        "month": "Feb",
+        "year": "2021",
+        "comment": ""
+    },
+    "498": {
+        "line": 498,
+        "type": "timed",
+        "time": "02:41",
+        "date": "10",
+        "month": "Feb",
+        "year": "2021",
+        "duration": "2:51:31",
+        "comment": ""
+    },
+    "499": {
+        "line": 499,
+        "type": "timed",
+        "time": "02:26",
+        "date": "12",
+        "month": "Feb",
+        "year": "2021",
+        "duration": "2:48:34",
+        "comment": ""
+    },
+    "500": {
+        "line": 500,
+        "type": "timed",
+        "time": "00:30",
+        "date": "13",
+        "month": "Feb",
+        "year": "2021",
+        "duration": "0:57:54",
+        "comment": ""
+    },
+    "501": {
+        "line": 501,
+        "type": "timed",
+        "time": "00:10",
+        "date": "14",
+        "month": "Feb",
+        "year": "2021",
+        "duration": "0:43:27",
+        "comment": ""
+    },
+    "502": {
+        "line": 502,
+        "type": "timed",
+        "time": "00:13",
+        "date": "17",
+        "month": "Feb",
+        "year": "2021",
+        "duration": "0:44:19",
+        "comment": ""
+    },
+    "503": {
+        "line": 503,
+        "type": "untimed",
+        "time": "11:19",
+        "date": "18",
+        "month": "Feb",
+        "year": "2021",
+        "comment": ""
+    },
+    "504": {
+        "line": 504,
+        "type": "timed",
+        "time": "00:55",
+        "date": "20",
+        "month": "Feb",
+        "year": "2021",
+        "duration": "1:15:34",
+        "comment": ""
+    },
+    "505": {
+        "line": 505,
+        "type": "untimed",
+        "time": "9:05",
+        "date": "21",
+        "month": "Feb",
+        "year": "2021",
+        "comment": ""
+    },
+    "506": {
+        "line": 506,
+        "type": "timed",
+        "time": "01:04",
+        "date": "23",
+        "month": "Feb",
+        "year": "2021",
+        "duration": "0:57:15",
+        "comment": ""
+    },
+    "507": {
+        "line": 507,
+        "type": "timed",
+        "time": "02:08",
+        "date": "27",
+        "month": "Feb",
+        "year": "2021",
+        "duration": "2:30:54",
+        "comment": ""
+    },
+    "508": {
+        "line": 508,
+        "type": "timed",
+        "time": "02:36",
+        "date": "01",
+        "month": "Mar",
+        "year": "2021",
+        "duration": "3:14:23",
+        "comment": ""
+    },
+    "509": {
+        "line": 509,
+        "type": "timed",
+        "time": "00:24",
+        "date": "03",
+        "month": "Mar",
+        "year": "2021",
+        "duration": "1:03:29",
+        "comment": ""
+    },
+    "510": {
+        "line": 510,
+        "type": "timed",
+        "time": "00:47",
+        "date": "03",
+        "month": "Mar",
+        "year": "2021",
+        "duration": "0:23:25",
+        "comment": ""
+    },
+    "511": {
+        "line": 511,
+        "type": "timed",
+        "time": "01:39",
+        "date": "04",
+        "month": "Mar",
+        "year": "2021",
+        "duration": "2:02:46",
+        "comment": ""
+    },
+    "512": {
+        "line": 512,
+        "type": "untimed",
+        "time": "21:00",
+        "date": "04",
+        "month": "Mar",
+        "year": "2021",
+        "comment": ""
+    },
+    "513": {
+        "line": 513,
+        "type": "untimed",
+        "time": "9:50",
+        "date": "05",
+        "month": "Mar",
+        "year": "2021",
+        "comment": ""
+    },
+    "514": {
+        "line": 514,
+        "type": "untimed",
+        "time": "19:40",
+        "date": "07",
+        "month": "Mar",
+        "year": "2021",
+        "comment": ""
+    },
+    "515": {
+        "line": 515,
+        "type": "untimed",
+        "time": "10:40",
+        "date": "08",
+        "month": "Mar",
+        "year": "2021",
+        "comment": ""
+    },
+    "516": {
+        "line": 516,
+        "type": "untimed",
+        "time": "10:08",
+        "date": "09",
+        "month": "Mar",
+        "year": "2021",
+        "comment": ""
+    },
+    "517": {
+        "line": 517,
+        "type": "untimed",
+        "time": "10:09",
+        "date": "10",
+        "month": "Mar",
+        "year": "2021",
+        "comment": ""
+    },
+    "518": {
+        "line": 518,
+        "type": "untimed",
+        "time": "9:20",
+        "date": "11",
+        "month": "Mar",
+        "year": "2021",
+        "comment": ""
+    },
+    "519": {
+        "line": 519,
+        "type": "untimed",
+        "time": "10:45",
+        "date": "12",
+        "month": "Mar",
+        "year": "2021",
+        "comment": ""
+    },
+    "520": {
+        "line": 520,
+        "type": "timed",
+        "time": "23:51",
+        "date": "16",
+        "month": "Mar",
+        "year": "2021",
+        "duration": "0:20:48",
+        "comment": ""
+    },
+    "521": {
+        "line": 521,
+        "type": "untimed",
+        "time": "9:50",
+        "date": "17",
+        "month": "Mar",
+        "year": "2021",
+        "comment": ""
+    },
+    "522": {
+        "line": 522,
+        "type": "timed",
+        "time": "00:19",
+        "date": "18",
+        "month": "Mar",
+        "year": "2021",
+        "duration": "0:59:48",
+        "comment": ""
+    },
+    "523": {
+        "line": 523,
+        "type": "timed",
+        "time": "01:09",
+        "date": "20",
+        "month": "Mar",
+        "year": "2021",
+        "duration": "0:48:08",
+        "comment": ""
+    },
+    "524": {
+        "line": 524,
+        "type": "timed",
+        "time": "00:11",
+        "date": "21",
+        "month": "Mar",
+        "year": "2021",
+        "duration": "0:22:25",
+        "comment": ""
+    },
+    "525": {
+        "line": 525,
+        "type": "untimed",
+        "time": "12:40",
+        "date": "22",
+        "month": "Mar",
+        "year": "2021",
+        "comment": ""
+    },
+    "526": {
+        "line": 526,
+        "type": "timed",
+        "time": "00:40",
+        "date": "23",
+        "month": "Mar",
+        "year": "2021",
+        "duration": "0:16:57",
+        "comment": ""
+    },
+    "527": {
+        "line": 527,
+        "type": "untimed",
+        "time": "9:25",
+        "date": "25",
+        "month": "Mar",
+        "year": "2021",
+        "comment": ""
+    },
+    "528": {
+        "line": 528,
+        "type": "timed",
+        "time": "02:44",
+        "date": "29",
+        "month": "Mar",
+        "year": "2021",
+        "duration": "3:32:12",
+        "comment": ""
+    },
+    "529": {
+        "line": 529,
+        "type": "untimed",
+        "time": "9:44",
+        "date": "30",
+        "month": "Mar",
+        "year": "2021",
+        "comment": ""
+    },
+    "530": {
+        "line": 530,
+        "type": "timed",
+        "time": "14:34",
+        "date": "01",
+        "month": "Apr",
+        "year": "2021",
+        "duration": "2:41:31",
+        "comment": ""
+    },
+    "531": {
+        "line": 531,
+        "type": "timed",
+        "time": "23:58",
+        "date": "01",
+        "month": "Apr",
+        "year": "2021",
+        "duration": "0:34:46",
+        "comment": ""
+    },
+    "532": {
+        "line": 532,
+        "type": "untimed",
+        "time": "10:00",
+        "date": "02",
+        "month": "Apr",
+        "year": "2021",
+        "comment": ""
+    },
+    "533": {
+        "line": 533,
+        "type": "untimed",
+        "time": "21:45",
+        "date": "02",
+        "month": "Apr",
+        "year": "2021",
+        "comment": ""
+    },
+    "534": {
+        "line": 534,
+        "type": "timed",
+        "time": "00:35",
+        "date": "08",
+        "month": "Apr",
+        "year": "2021",
+        "duration": "0:31:32",
+        "comment": ""
+    },
+    "535": {
+        "line": 535,
+        "type": "untimed",
+        "time": "10:50",
+        "date": "8",
+        "month": "Apr",
+        "year": "2021",
+        "comment": ""
+    },
+    "536": {
+        "line": 536,
+        "type": "timed",
+        "time": "01:57",
+        "date": "09",
+        "month": "Apr",
+        "year": "2021",
+        "duration": "2:38:51",
+        "comment": ""
+    },
+    "537": {
+        "line": 537,
+        "type": "timed",
+        "time": "02:29",
+        "date": "10",
+        "month": "Apr",
+        "year": "2021",
+        "duration": "3:34:09",
+        "comment": ""
+    },
+    "538": {
+        "line": 538,
+        "type": "timed",
+        "time": "01:55",
+        "date": "11",
+        "month": "Apr",
+        "year": "2021",
+        "duration": "1:36:19",
+        "comment": ""
+    },
+    "539": {
+        "line": 539,
+        "type": "timed",
+        "time": "01:12",
+        "date": "12",
+        "month": "Apr",
+        "year": "2021",
+        "duration": "1:23:39",
+        "comment": ""
+    },
+    "540": {
+        "line": 540,
+        "type": "untimed",
+        "time": "9:20",
+        "date": "13",
+        "month": "Apr",
+        "year": "2021",
+        "comment": ""
+    },
+    "541": {
+        "line": 541,
+        "type": "timed",
+        "time": "02:36",
+        "date": "14",
+        "month": "Apr",
+        "year": "2021",
+        "duration": "2:49:14",
+        "comment": ""
+    },
+    "542": {
+        "line": 542,
+        "type": "timed",
+        "time": "03:25",
+        "date": "17",
+        "month": "Apr",
+        "year": "2021",
+        "duration": "3:52:08",
+        "comment": ""
+    },
+    "543": {
+        "line": 543,
+        "type": "timed",
+        "time": "03:00",
+        "date": "19",
+        "month": "Apr",
+        "year": "2021",
+        "duration": "3:23:37",
+        "comment": ""
+    },
+    "544": {
+        "line": 544,
+        "type": "untimed",
+        "time": "23:58",
+        "date": "19",
+        "month": "Apr",
+        "year": "2021",
+        "comment": ""
+    },
+    "545": {
+        "line": 545,
+        "type": "timed",
+        "time": "00:46",
+        "date": "22",
+        "month": "Apr",
+        "year": "2021",
+        "duration": "0:48:13",
+        "comment": ""
+    },
+    "546": {
+        "line": 546,
+        "type": "timed",
+        "time": "01:28",
+        "date": "24",
+        "month": "Apr",
+        "year": "2021",
+        "duration": "1:01:02",
+        "comment": ""
+    },
+    "547": {
+        "line": 547,
+        "type": "untimed",
+        "time": "10:18",
+        "date": "24",
+        "month": "Apr",
+        "year": "2021",
+        "comment": ""
+    },
+    "548": {
+        "line": 548,
+        "type": "timed",
+        "time": "03:13",
+        "date": "25",
+        "month": "Apr",
+        "year": "2021",
+        "duration": "3:18:00",
+        "comment": ""
+    },
+    "549": {
+        "line": 549,
+        "type": "timed",
+        "time": "01:32",
+        "date": "27",
+        "month": "Apr",
+        "year": "2021",
+        "duration": "?:??:??",
+        "comment": ""
+    },
+    "550": {
+        "line": 550,
+        "type": "timed",
+        "time": "02:32",
+        "date": "27",
+        "month": "Apr",
+        "year": "2021",
+        "duration": "3:16:16",
+        "comment": ""
+    },
+    "551": {
+        "line": 551,
+        "type": "untimed",
+        "time": "9:40",
+        "date": "27",
+        "month": "Apr",
+        "year": "2021",
+        "comment": ""
+    },
+    "552": {
+        "line": 552,
+        "type": "timed",
+        "time": "03:01",
+        "date": "29",
+        "month": "Apr",
+        "year": "2021",
+        "duration": "2:42:07",
+        "comment": ""
+    },
+    "553": {
+        "line": 553,
+        "type": "untimed",
+        "time": "10:40",
+        "date": "29",
+        "month": "Apr",
+        "year": "2021",
+        "comment": ""
+    },
+    "554": {
+        "line": 554,
+        "type": "untimed",
+        "time": "10:50",
+        "date": "30",
+        "month": "Apr",
+        "year": "2021",
+        "comment": ""
+    },
+    "555": {
+        "line": 555,
+        "type": "timed",
+        "time": "03:13",
+        "date": "01",
+        "month": "May",
+        "year": "2021",
+        "duration": "1:49:13",
+        "comment": ""
+    },
+    "556": {
+        "line": 556,
+        "type": "timed",
+        "time": "00:06",
+        "date": "03",
+        "month": "May",
+        "year": "2021",
+        "duration": "0:45:35",
+        "comment": ""
+    },
+    "557": {
+        "line": 557,
+        "type": "untimed",
+        "time": "11:00",
+        "date": "03",
+        "month": "May",
+        "year": "2021",
+        "comment": ""
+    },
+    "558": {
+        "line": 558,
+        "type": "timed",
+        "time": "01:17",
+        "date": "05",
+        "month": "May",
+        "year": "2021",
+        "duration": "1:28:44",
+        "comment": ""
+    },
+    "559": {
+        "line": 559,
+        "type": "untimed",
+        "time": "10:03",
+        "date": "06",
+        "month": "May",
+        "year": "2021",
+        "comment": ""
+    },
+    "560": {
+        "line": 560,
+        "type": "untimed",
+        "time": "20:10",
+        "date": "06",
+        "month": "May",
+        "year": "2021",
+        "comment": ""
+    },
+    "561": {
+        "line": 561,
+        "type": "timed",
+        "time": "00:31",
+        "date": "09",
+        "month": "May",
+        "year": "2021",
+        "duration": "1:33:56",
+        "comment": ""
+    },
+    "562": {
+        "line": 562,
+        "type": "timed",
+        "time": "00:46",
+        "date": "10",
+        "month": "May",
+        "year": "2021",
+        "duration": "0:50:02",
+        "comment": ""
+    },
+    "563": {
+        "line": 563,
+        "type": "timed",
+        "time": "01:42",
+        "date": "11",
+        "month": "May",
+        "year": "2021",
+        "duration": "1:18:36",
+        "comment": ""
+    },
+    "564": {
+        "line": 564,
+        "type": "timed",
+        "time": "03:27",
+        "date": "13",
+        "month": "May",
+        "year": "2021",
+        "duration": "3:44:45",
+        "comment": ""
+    },
+    "565": {
+        "line": 565,
+        "type": "untimed",
+        "time": "11:00",
+        "date": "13",
+        "month": "May",
+        "year": "2021",
+        "comment": ""
+    },
+    "566": {
+        "line": 566,
+        "type": "timed",
+        "time": "02:55",
+        "date": "15",
+        "month": "May",
+        "year": "2021",
+        "duration": "2:51:38",
+        "comment": ""
+    },
+    "567": {
+        "line": 567,
+        "type": "untimed",
+        "time": "11:10",
+        "date": "17",
+        "month": "May",
+        "year": "2021",
+        "comment": ""
+    },
+    "568": {
+        "line": 568,
+        "type": "untimed",
+        "time": "10:10",
+        "date": "19",
+        "month": "May",
+        "year": "2021",
+        "comment": ""
+    },
+    "569": {
+        "line": 569,
+        "type": "timed",
+        "time": "01:16",
+        "date": "22",
+        "month": "May",
+        "year": "2021",
+        "duration": "1:03:08",
+        "comment": ""
+    },
+    "570": {
+        "line": 570,
+        "type": "timed",
+        "time": "02:47",
+        "date": "23",
+        "month": "May",
+        "year": "2021",
+        "duration": "2:36:31",
+        "comment": ""
+    },
+    "571": {
+        "line": 571,
+        "type": "timed",
+        "time": "03:08",
+        "date": "25",
+        "month": "May",
+        "year": "2021",
+        "duration": "3:20:15",
+        "comment": ""
+    },
+    "572": {
+        "line": 572,
+        "type": "untimed",
+        "time": "11:33",
+        "date": "25",
+        "month": "May",
+        "year": "2021",
+        "comment": ""
+    },
+    "573": {
+        "line": 573,
+        "type": "untimed",
+        "time": "10:14",
+        "date": "26",
+        "month": "May",
+        "year": "2021",
+        "comment": ""
+    },
+    "574": {
+        "line": 574,
+        "type": "untimed",
+        "time": "11:30",
+        "date": "26",
+        "month": "May",
+        "year": "2021",
+        "comment": ""
+    },
+    "575": {
+        "line": 575,
+        "type": "timed",
+        "time": "03:20",
+        "date": "27",
+        "month": "May",
+        "year": "2021",
+        "duration": "2:41:18",
+        "comment": ""
+    },
+    "576": {
+        "line": 576,
+        "type": "timed",
+        "time": "00:23",
+        "date": "29",
+        "month": "May",
+        "year": "2021",
+        "duration": "0:35:23",
+        "comment": ""
+    },
+    "577": {
+        "line": 577,
+        "type": "timed",
+        "time": "01:43",
+        "date": "30",
+        "month": "May",
+        "year": "2021",
+        "duration": "0:21:33",
+        "comment": ""
+    },
+    "578": {
+        "line": 578,
+        "type": "untimed",
+        "time": "12:40",
+        "date": "31",
+        "month": "May",
+        "year": "2021",
+        "comment": ""
+    },
+    "579": {
+        "line": 579,
+        "type": "untimed",
+        "time": "10:32",
+        "date": "01",
+        "month": "Jun",
+        "year": "2021",
+        "comment": ""
+    },
+    "580": {
+        "line": 580,
+        "type": "untimed",
+        "time": "10:20",
+        "date": "02",
+        "month": "Jun",
+        "year": "2021",
+        "comment": ""
+    },
+    "581": {
+        "line": 581,
+        "type": "untimed",
+        "time": "10:20",
+        "date": "04",
+        "month": "Jun",
+        "year": "2021",
+        "comment": ""
+    },
+    "582": {
+        "line": 582,
+        "type": "timed",
+        "time": "03:14",
+        "date": "07",
+        "month": "Jun",
+        "year": "2021",
+        "duration": "4:13:00",
+        "comment": ""
+    },
+    "583": {
+        "line": 583,
+        "type": "untimed",
+        "time": "10:15",
+        "date": "07",
+        "month": "Jun",
+        "year": "2021",
+        "comment": ""
+    },
+    "584": {
+        "line": 584,
+        "type": "untimed",
+        "time": "10:29",
+        "date": "11",
+        "month": "Jun",
+        "year": "2021",
+        "comment": ""
+    },
+    "585": {
+        "line": 585,
+        "type": "timed",
+        "time": "03:03",
+        "date": "13",
+        "month": "Jun",
+        "year": "2021",
+        "duration": "2:56:45",
+        "comment": ""
+    },
+    "586": {
+        "line": 586,
+        "type": "untimed",
+        "time": "10:20",
+        "date": "13",
+        "month": "Jun",
+        "year": "2021",
+        "comment": ""
+    },
+    "587": {
+        "line": 587,
+        "type": "untimed",
+        "time": "10:50",
+        "date": "14",
+        "month": "Jun",
+        "year": "2021",
+        "comment": ""
+    },
+    "588": {
+        "line": 588,
+        "type": "timed",
+        "time": "00:39",
+        "date": "17",
+        "month": "Jun",
+        "year": "2021",
+        "duration": "1:22:45",
+        "comment": ""
+    },
+    "589": {
+        "line": 589,
+        "type": "untimed",
+        "time": "10:05",
+        "date": "17",
+        "month": "Jun",
+        "year": "2021",
+        "comment": ""
+    },
+    "590": {
+        "line": 590,
+        "type": "untimed",
+        "time": "10:38",
+        "date": "17",
+        "month": "Jun",
+        "year": "2021",
+        "comment": ""
+    },
+    "591": {
+        "line": 591,
+        "type": "timed",
+        "time": "02:38",
+        "date": "19",
+        "month": "Jun",
+        "year": "2021",
+        "duration": "2:54:55",
+        "comment": ""
+    },
+    "592": {
+        "line": 592,
+        "type": "untimed",
+        "time": "10:21",
+        "date": "21",
+        "month": "Jun",
+        "year": "2021",
+        "comment": ""
+    },
+    "593": {
+        "line": 593,
+        "type": "timed",
+        "time": "02:20",
+        "date": "22",
+        "month": "Jun",
+        "year": "2021",
+        "duration": "1:25:40",
+        "comment": ""
+    },
+    "594": {
+        "line": 594,
+        "type": "untimed",
+        "time": "10:30",
+        "date": "22",
+        "month": "Jun",
+        "year": "2021",
+        "comment": ""
+    },
+    "595": {
+        "line": 595,
+        "type": "timed",
+        "time": "01:07",
+        "date": "24",
+        "month": "Jun",
+        "year": "2021",
+        "duration": "1:17:48",
+        "comment": ""
+    },
+    "596": {
+        "line": 596,
+        "type": "timed",
+        "time": "02:43",
+        "date": "27",
+        "month": "Jun",
+        "year": "2021",
+        "duration": "2:07:16",
+        "comment": ""
+    },
+    "597": {
+        "line": 597,
+        "type": "timed",
+        "time": "00:50",
+        "date": "28",
+        "month": "Jun",
+        "year": "2021",
+        "duration": "0:54:19",
+        "comment": ""
+    },
+    "598": {
+        "line": 598,
+        "type": "untimed",
+        "time": "13:10",
+        "date": "28",
+        "month": "Jun",
+        "year": "2021",
+        "comment": ""
+    },
+    "599": {
+        "line": 599,
+        "type": "timed",
+        "time": "00:43",
+        "date": "01",
+        "month": "Jul",
+        "year": "2021",
+        "duration": "1:36:50",
+        "comment": ""
+    },
+    "600": {
+        "line": 600,
+        "type": "untimed",
+        "time": "11:14",
+        "date": "01",
+        "month": "Jul",
+        "year": "2021",
+        "comment": ""
+    },
+    "601": {
+        "line": 601,
+        "type": "timed",
+        "time": "03:03",
+        "date": "02",
+        "month": "Jul",
+        "year": "2021",
+        "duration": "3:08:46",
+        "comment": ""
+    },
+    "602": {
+        "line": 602,
+        "type": "timed",
+        "time": "01:24",
+        "date": "04",
+        "month": "Jul",
+        "year": "2021",
+        "duration": "1:41:14",
+        "comment": ""
+    },
+    "603": {
+        "line": 603,
+        "type": "timed",
+        "time": "02:40",
+        "date": "05",
+        "month": "Jul",
+        "year": "2021",
+        "duration": "2:55:33",
+        "comment": ""
+    },
+    "604": {
+        "line": 604,
+        "type": "untimed",
+        "time": "10:39",
+        "date": "05",
+        "month": "Jul",
+        "year": "2021",
+        "comment": ""
+    },
+    "605": {
+        "line": 605,
+        "type": "timed",
+        "time": "02:17",
+        "date": "09",
+        "month": "Jul",
+        "year": "2021",
+        "duration": "2:55:26",
+        "comment": ""
+    },
+    "606": {
+        "line": 606,
+        "type": "untimed",
+        "time": "10:00",
+        "date": "09",
+        "month": "Jul",
+        "year": "2021",
+        "comment": ""
+    },
+    "607": {
+        "line": 607,
+        "type": "untimed",
+        "time": "10:45",
+        "date": "13",
+        "month": "Jul",
+        "year": "2021",
+        "comment": ""
+    },
+    "608": {
+        "line": 608,
+        "type": "timed",
+        "time": "00:03",
+        "date": "14",
+        "month": "Jul",
+        "year": "2021",
+        "duration": "0:11:30",
+        "comment": ""
+    },
+    "609": {
+        "line": 609,
+        "type": "timed",
+        "time": "01:39",
+        "date": "22",
+        "month": "Jul",
+        "year": "2021",
+        "duration": "2:36:37",
+        "comment": "Nutted so hard it hurt. It was my first nut in 8 days"
+    },
+    "610": {
+        "line": 610,
+        "type": "timed",
+        "time": "01:21",
+        "date": "23",
+        "month": "Jul",
+        "year": "2021",
+        "duration": "2:38:48",
+        "comment": ""
+    },
+    "611": {
+        "line": 611,
+        "type": "timed",
+        "time": "23:53",
+        "date": "24",
+        "month": "Jul",
+        "year": "2021",
+        "duration": "0:32:05",
+        "comment": ""
+    },
+    "612": {
+        "line": 612,
+        "type": "untimed",
+        "time": "11:15",
+        "date": "26",
+        "month": "Jul",
+        "year": "2021",
+        "comment": ""
+    },
+    "613": {
+        "line": 613,
+        "type": "timed",
+        "time": "01:06",
+        "date": "27",
+        "month": "Jul",
+        "year": "2021",
+        "duration": "0:27:49",
+        "comment": ""
+    },
+    "614": {
+        "line": 614,
+        "type": "untimed",
+        "time": "10:45",
+        "date": "27",
+        "month": "Jul",
+        "year": "2021",
+        "comment": ""
+    },
+    "615": {
+        "line": 615,
+        "type": "untimed",
+        "time": "11:30",
+        "date": "29",
+        "month": "Jul",
+        "year": "2021",
+        "comment": ""
+    },
+    "616": {
+        "line": 616,
+        "type": "timed",
+        "time": "01:28",
+        "date": "30",
+        "month": "Jul",
+        "year": "2021",
+        "duration": "2:14:48",
+        "comment": ""
+    },
+    "617": {
+        "line": 617,
+        "type": "timed",
+        "time": "02:38",
+        "date": "01",
+        "month": "Aug",
+        "year": "2021",
+        "duration": "3:11:39",
+        "comment": ""
+    },
+    "618": {
+        "line": 618,
+        "type": "untimed",
+        "time": "9:47",
+        "date": "01",
+        "month": "Aug",
+        "year": "2021",
+        "comment": ""
+    },
+    "619": {
+        "line": 619,
+        "type": "timed",
+        "time": "00:34",
+        "date": "03",
+        "month": "Aug",
+        "year": "2021",
+        "duration": "0:23:03",
+        "comment": ""
+    },
+    "620": {
+        "line": 620,
+        "type": "timed",
+        "time": "00:39",
+        "date": "04",
+        "month": "Aug",
+        "year": "2021",
+        "duration": "1:52:55",
+        "comment": ""
+    },
+    "621": {
+        "line": 621,
+        "type": "timed",
+        "time": "01:49",
+        "date": "06",
+        "month": "Aug",
+        "year": "2021",
+        "duration": "2:41:28",
+        "comment": ""
+    },
+    "622": {
+        "line": 622,
+        "type": "untimed",
+        "time": "10:11",
+        "date": "07",
+        "month": "Aug",
+        "year": "2021",
+        "comment": ""
+    },
+    "623": {
+        "line": 623,
+        "type": "timed",
+        "time": "03:26",
+        "date": "09",
+        "month": "Aug",
+        "year": "2021",
+        "duration": "3:58:55",
+        "comment": ""
+    },
+    "624": {
+        "line": 624,
+        "type": "untimed",
+        "time": "11:30",
+        "date": "09",
+        "month": "Aug",
+        "year": "2021",
+        "comment": ""
+    },
+    "625": {
+        "line": 625,
+        "type": "timed",
+        "time": "01:44",
+        "date": "11",
+        "month": "Aug",
+        "year": "2021",
+        "duration": "2:48:56",
+        "comment": ""
+    },
+    "626": {
+        "line": 626,
+        "type": "untimed",
+        "time": "10:36",
+        "date": "11",
+        "month": "Aug",
+        "year": "2021",
+        "comment": ""
+    },
+    "627": {
+        "line": 627,
+        "type": "untimed",
+        "time": "10:24",
+        "date": "12",
+        "month": "Aug",
+        "year": "2021",
+        "comment": ""
+    },
+    "628": {
+        "line": 628,
+        "type": "untimed",
+        "time": "10:45",
+        "date": "13",
+        "month": "Aug",
+        "year": "2021",
+        "comment": ""
+    },
+    "629": {
+        "line": 629,
+        "type": "timed",
+        "time": "00:28",
+        "date": "14",
+        "month": "Aug",
+        "year": "2021",
+        "duration": "1:04:24",
+        "comment": ""
+    },
+    "630": {
+        "line": 630,
+        "type": "timed",
+        "time": "01:15",
+        "date": "17",
+        "month": "Aug",
+        "year": "2021",
+        "duration": "2:44:08",
+        "comment": ""
+    },
+    "631": {
+        "line": 631,
+        "type": "timed",
+        "time": "23:14",
+        "date": "17",
+        "month": "Aug",
+        "year": "2021",
+        "duration": "0:05:24",
+        "comment": ""
+    },
+    "632": {
+        "line": 632,
+        "type": "timed",
+        "time": "00:15",
+        "date": "20",
+        "month": "Aug",
+        "year": "2021",
+        "duration": "1:09:11",
+        "comment": ""
+    },
+    "633": {
+        "line": 633,
+        "type": "timed",
+        "time": "10:40",
+        "date": "20",
+        "month": "Aug",
+        "year": "2021",
+        "duration": "0:21:59",
+        "comment": ""
+    },
+    "634": {
+        "line": 634,
+        "type": "timed",
+        "time": "01:16",
+        "date": "22",
+        "month": "Aug",
+        "year": "2021",
+        "duration": "1:33:34",
+        "comment": ""
+    },
+    "635": {
+        "line": 635,
+        "type": "timed",
+        "time": "01:33",
+        "date": "23",
+        "month": "Aug",
+        "year": "2021",
+        "duration": "2:01:27",
+        "comment": ""
+    },
+    "636": {
+        "line": 636,
+        "type": "untimed",
+        "time": "11:25",
+        "date": "23",
+        "month": "Aug",
+        "year": "2021",
+        "comment": ""
+    },
+    "637": {
+        "line": 637,
+        "type": "timed",
+        "time": "02:38",
+        "date": "25",
+        "month": "Aug",
+        "year": "2021",
+        "duration": "2:57:42",
+        "comment": ""
+    },
+    "638": {
+        "line": 638,
+        "type": "timed",
+        "time": "10:18",
+        "date": "26",
+        "month": "Aug",
+        "year": "2021",
+        "duration": "0:28:14",
+        "comment": ""
+    },
+    "639": {
+        "line": 639,
+        "type": "timed",
+        "time": "23:45",
+        "date": "27",
+        "month": "Aug",
+        "year": "2021",
+        "duration": "0:28:16",
+        "comment": ""
+    },
+    "640": {
+        "line": 640,
+        "type": "timed",
+        "time": "02:17",
+        "date": "29",
+        "month": "Aug",
+        "year": "2021",
+        "duration": "1:48:21",
+        "comment": ""
+    },
+    "641": {
+        "line": 641,
+        "type": "timed",
+        "time": "01:01",
+        "date": "30",
+        "month": "Aug",
+        "year": "2021",
+        "duration": "1:05:35",
+        "comment": ""
+    },
+    "642": {
+        "line": 642,
+        "type": "timed",
+        "time": "10:16",
+        "date": "30",
+        "month": "Aug",
+        "year": "2021",
+        "duration": "0:20:17",
+        "comment": ""
+    },
+    "643": {
+        "line": 643,
+        "type": "timed",
+        "time": "00:38",
+        "date": "1",
+        "month": "Sep",
+        "year": "2021",
+        "duration": "1:02:08",
+        "comment": ""
+    },
+    "644": {
+        "line": 644,
+        "type": "timed",
+        "time": "10:26",
+        "date": "2",
+        "month": "Sep",
+        "year": "2021",
+        "duration": "0:19:12",
+        "comment": ""
+    },
+    "645": {
+        "line": 645,
+        "type": "timed",
+        "time": "10:36",
+        "date": "3",
+        "month": "Sep",
+        "year": "2021",
+        "duration": "0:28:06",
+        "comment": ""
+    },
+    "646": {
+        "line": 646,
+        "type": "timed",
+        "time": "00:52",
+        "date": "5",
+        "month": "Sep",
+        "year": "2021",
+        "duration": "0:39:43",
+        "comment": ""
+    },
+    "647": {
+        "line": 647,
+        "type": "timed",
+        "time": "00:19",
+        "date": "7",
+        "month": "Sep",
+        "year": "2021",
+        "duration": "0:53:08",
+        "comment": ""
+    },
+    "648": {
+        "line": 648,
+        "type": "timed",
+        "time": "01:24",
+        "date": "8",
+        "month": "Sep",
+        "year": "2021",
+        "duration": "2:02:11",
+        "comment": ""
+    },
+    "649": {
+        "line": 649,
+        "type": "timed",
+        "time": "01:55",
+        "date": "10",
+        "month": "Sep",
+        "year": "2021",
+        "duration": "2:13:53",
+        "comment": ""
+    },
+    "650": {
+        "line": 650,
+        "type": "timed",
+        "time": "01:18",
+        "date": "11",
+        "month": "Sep",
+        "year": "2021",
+        "duration": "2:10:28",
+        "comment": ""
+    },
+    "651": {
+        "line": 651,
+        "type": "timed",
+        "time": "01:59",
+        "date": "14",
+        "month": "Sep",
+        "year": "2021",
+        "duration": "2:37:38",
+        "comment": ""
+    },
+    "652": {
+        "line": 652,
+        "type": "untimed",
+        "time": "10:10",
+        "date": "15",
+        "month": "Sep",
+        "year": "2021",
+        "comment": ""
+    },
+    "653": {
+        "line": 653,
+        "type": "untimed",
+        "time": "9:40",
+        "date": "16",
+        "month": "Sep",
+        "year": "2021",
+        "comment": ""
+    },
+    "654": {
+        "line": 654,
+        "type": "untimed",
+        "time": "10:19",
+        "date": "16",
+        "month": "Sep",
+        "year": "2021",
+        "comment": ""
+    },
+    "655": {
+        "line": 655,
+        "type": "timed",
+        "time": "00:52",
+        "date": "20",
+        "month": "Sep",
+        "year": "2021",
+        "duration": "1:11:49",
+        "comment": ""
+    },
+    "656": {
+        "line": 656,
+        "type": "timed",
+        "time": "00:44",
+        "date": "21",
+        "month": "Sep",
+        "year": "2021",
+        "duration": "1:23:42",
+        "comment": ""
+    },
+    "657": {
+        "line": 657,
+        "type": "timed",
+        "time": "09:25",
+        "date": "22",
+        "month": "Sep",
+        "year": "2021",
+        "duration": "0:26:20",
+        "comment": ""
+    },
+    "658": {
+        "line": 658,
+        "type": "timed",
+        "time": "00:39",
+        "date": "24",
+        "month": "Sep",
+        "year": "2021",
+        "duration": "1:26:45",
+        "comment": ""
+    },
+    "659": {
+        "line": 659,
+        "type": "timed",
+        "time": "23:49",
+        "date": "24",
+        "month": "Sep",
+        "year": "2021",
+        "duration": "0:31:49",
+        "comment": ""
+    },
+    "660": {
+        "line": 660,
+        "type": "timed",
+        "time": "00:32",
+        "date": "26",
+        "month": "Sep",
+        "year": "2021",
+        "duration": "1:48:50",
+        "comment": ""
+    },
+    "661": {
+        "line": 661,
+        "type": "timed",
+        "time": "01:16",
+        "date": "28",
+        "month": "Sep",
+        "year": "2021",
+        "duration": "1:41:36",
+        "comment": ""
+    },
+    "662": {
+        "line": 662,
+        "type": "timed",
+        "time": "01:23",
+        "date": "1",
+        "month": "Oct",
+        "year": "2021",
+        "duration": "2:05:21",
+        "comment": ""
+    },
+    "663": {
+        "line": 663,
+        "type": "timed",
+        "time": "23:51",
+        "date": "1",
+        "month": "Oct",
+        "year": "2021",
+        "duration": "0:47:12",
+        "comment": ""
+    },
+    "664": {
+        "line": 664,
+        "type": "timed",
+        "time": "23:39",
+        "date": "2",
+        "month": "Oct",
+        "year": "2021",
+        "duration": "0:11:49",
+        "comment": ""
+    },
+    "665": {
+        "line": 665,
+        "type": "timed",
+        "time": "00:46",
+        "date": "4",
+        "month": "Oct",
+        "year": "2021",
+        "duration": "1:40:09",
+        "comment": ""
+    },
+    "666": {
+        "line": 666,
+        "type": "untimed",
+        "time": "9:10",
+        "date": "04",
+        "month": "Oct",
+        "year": "2021",
+        "comment": ""
+    },
+    "667": {
+        "line": 667,
+        "type": "timed",
+        "time": "01:39",
+        "date": "6",
+        "month": "Oct",
+        "year": "2021",
+        "duration": "2:31:59",
+        "comment": ""
+    },
+    "668": {
+        "line": 668,
+        "type": "timed",
+        "time": "00:37",
+        "date": "8",
+        "month": "Oct",
+        "year": "2021",
+        "duration": "1:46:56",
+        "comment": ""
+    },
+    "669": {
+        "line": 669,
+        "type": "timed",
+        "time": "00:49",
+        "date": "10",
+        "month": "Oct",
+        "year": "2021",
+        "duration": "0:29:36",
+        "comment": ""
+    },
+    "670": {
+        "line": 670,
+        "type": "untimed",
+        "time": "9:40",
+        "date": "10",
+        "month": "Oct",
+        "year": "2021",
+        "comment": ""
+    },
+    "671": {
+        "line": 671,
+        "type": "untimed",
+        "time": "13:55",
+        "date": "11",
+        "month": "Oct",
+        "year": "2021",
+        "comment": ""
+    },
+    "672": {
+        "line": 672,
+        "type": "timed",
+        "time": "00:21",
+        "date": "13",
+        "month": "Oct",
+        "year": "2021",
+        "duration": "0:14:35",
+        "comment": ""
+    },
+    "673": {
+        "line": 673,
+        "type": "timed",
+        "time": "22:48",
+        "date": "13",
+        "month": "Oct",
+        "year": "2021",
+        "duration": "0:05:47",
+        "comment": ""
+    },
+    "674": {
+        "line": 674,
+        "type": "timed",
+        "time": "00:38",
+        "date": "15",
+        "month": "Oct",
+        "year": "2021",
+        "duration": "1:10:50",
+        "comment": ""
+    },
+    "675": {
+        "line": 675,
+        "type": "untimed",
+        "time": "9:30",
+        "date": "15",
+        "month": "Oct",
+        "year": "2021",
+        "comment": ""
+    },
+    "676": {
+        "line": 676,
+        "type": "untimed",
+        "time": "9:57",
+        "date": "15",
+        "month": "Oct",
+        "year": "2021",
+        "comment": ""
+    },
+    "677": {
+        "line": 677,
+        "type": "timed",
+        "time": "00:00",
+        "date": "17",
+        "month": "Oct",
+        "year": "2021",
+        "duration": "1:20:12",
+        "comment": ""
+    },
+    "678": {
+        "line": 678,
+        "type": "timed",
+        "time": "01:04",
+        "date": "19",
+        "month": "Oct",
+        "year": "2021",
+        "duration": "2:08:59",
+        "comment": ""
+    },
+    "679": {
+        "line": 679,
+        "type": "timed",
+        "time": "09:32",
+        "date": "19",
+        "month": "Oct",
+        "year": "2021",
+        "duration": "0:35:36",
+        "comment": ""
+    },
+    "680": {
+        "line": 680,
+        "type": "timed",
+        "time": "09:38",
+        "date": "20",
+        "month": "Oct",
+        "year": "2021",
+        "duration": "0:16:30",
+        "comment": ""
+    },
+    "681": {
+        "line": 681,
+        "type": "timed",
+        "time": "00:41",
+        "date": "23",
+        "month": "Oct",
+        "year": "2021",
+        "duration": "0:50:38",
+        "comment": ""
+    },
+    "682": {
+        "line": 682,
+        "type": "timed",
+        "time": "00:37",
+        "date": "25",
+        "month": "Oct",
+        "year": "2021",
+        "duration": "2:14:06",
+        "comment": ""
+    },
+    "683": {
+        "line": 683,
+        "type": "timed",
+        "time": "01:03",
+        "date": "26",
+        "month": "Oct",
+        "year": "2021",
+        "duration": "2:21:11",
+        "comment": ""
+    },
+    "684": {
+        "line": 684,
+        "type": "timed",
+        "time": "00:05",
+        "date": "27",
+        "month": "Oct",
+        "year": "2021",
+        "duration": "1:18:07",
+        "comment": ""
+    },
+    "685": {
+        "line": 685,
+        "type": "timed",
+        "time": "01:07",
+        "date": "28",
+        "month": "Oct",
+        "year": "2021",
+        "duration": "2:25:19",
+        "comment": ""
+    },
+    "686": {
+        "line": 686,
+        "type": "untimed",
+        "time": "8:48",
+        "date": "28",
+        "month": "Oct",
+        "year": "2021",
+        "comment": ""
+    },
+    "687": {
+        "line": 687,
+        "type": "timed",
+        "time": "00:47",
+        "date": "30",
+        "month": "Oct",
+        "year": "2021",
+        "duration": "2:00:01",
+        "comment": ""
+    },
+    "688": {
+        "line": 688,
+        "type": "timed",
+        "time": "23:22",
+        "date": "30",
+        "month": "Oct",
+        "year": "2021",
+        "duration": "0:26:24",
+        "comment": ""
+    },
+    "689": {
+        "line": 689,
+        "type": "timed",
+        "time": "23:48",
+        "date": "31",
+        "month": "Oct",
+        "year": "2021",
+        "duration": "0:54:24",
+        "comment": ""
+    },
+    "690": {
+        "line": 690,
+        "type": "timed",
+        "time": "00:11",
+        "date": "11",
+        "month": "Nov",
+        "year": "2021",
+        "duration": "1:43:48",
+        "comment": "Aching balls. Massive amount of cum"
+    },
+    "691": {
+        "line": 691,
+        "type": "untimed",
+        "time": "10:00",
+        "date": "11",
+        "month": "Nov",
+        "year": "2021",
+        "comment": "Couldn't help myself"
+    },
+    "692": {
+        "line": 692,
+        "type": "timed",
+        "time": "00:37",
+        "date": "13",
+        "month": "Nov",
+        "year": "2021",
+        "duration": "2:20:30",
+        "comment": ""
+    },
+    "693": {
+        "line": 693,
+        "type": "timed",
+        "time": "00:34",
+        "date": "15",
+        "month": "Nov",
+        "year": "2021",
+        "duration": "2:00:31",
+        "comment": "Very horny"
+    },
+    "694": {
+        "line": 694,
+        "type": "untimed",
+        "time": "13:45",
+        "date": "15",
+        "month": "Nov",
+        "year": "2021",
+        "comment": "Snuck away to the bathroom for a quick wank"
+    },
+    "695": {
+        "line": 695,
+        "type": "untimed",
+        "time": "09:00",
+        "date": "16",
+        "month": "Nov",
+        "year": "2021",
+        "comment": "WIBU ;)"
+    },
+    "696": {
+        "line": 696,
+        "type": "timed",
+        "time": "01:22",
+        "date": "17",
+        "month": "Nov",
+        "year": "2021",
+        "duration": "2:27:43",
+        "comment": "I hate myself"
+    },
+    "697": {
+        "line": 697,
+        "type": "untimed",
+        "time": "11:25",
+        "date": "17",
+        "month": "Nov",
+        "year": "2021",
+        "comment": ""
+    },
+    "698": {
+        "line": 698,
+        "type": "untimed",
+        "time": "09:25",
+        "date": "18",
+        "month": "Nov",
+        "year": "2021",
+        "comment": "WIBU ;)"
+    },
+    "699": {
+        "line": 699,
+        "type": "timed",
+        "time": "03:03",
+        "date": "20",
+        "month": "Nov",
+        "year": "2021",
+        "duration": "4:04:38",
+        "comment": ""
+    },
+    "700": {
+        "line": 700,
+        "type": "timed",
+        "time": "23:40",
+        "date": "20",
+        "month": "Nov",
+        "year": "2021",
+        "duration": "0:46:29",
+        "comment": ""
+    },
+    "701": {
+        "line": 701,
+        "type": "timed",
+        "time": "01:30",
+        "date": "01",
+        "month": "Dec",
+        "year": "2021",
+        "duration": "2:48:58",
+        "comment": "fountain of cum"
+    },
+    "702": {
+        "line": 702,
+        "type": "untimed",
+        "time": "11:40",
+        "date": "02",
+        "month": "Dec",
+        "year": "2021",
+        "comment": ""
+    },
+    "703": {
+        "line": 703,
+        "type": "timed",
+        "time": "23:54",
+        "date": "02",
+        "month": "Dec",
+        "year": "2021",
+        "duration": "0:44:35",
+        "comment": "fucking nutted on myself"
+    },
+    "704": {
+        "line": 704,
+        "type": "untimed",
+        "time": "00:32",
+        "date": "03",
+        "month": "Dec",
+        "year": "2021",
+        "comment": "Didn't stop between this one and the previous one"
+    },
+    "705": {
+        "line": 705,
+        "type": "timed",
+        "time": "01:16",
+        "date": "05",
+        "month": "Dec",
+        "year": "2021",
+        "duration": "2:58:05",
+        "comment": ""
+    },
+    "706": {
+        "line": 706,
+        "type": "timed",
+        "time": "01:46",
+        "date": "06",
+        "month": "Dec",
+        "year": "2021",
+        "duration": "1:20:05",
+        "comment": ""
+    },
+    "707": {
+        "line": 707,
+        "type": "timed",
+        "time": "23:40",
+        "date": "06",
+        "month": "Dec",
+        "year": "2021",
+        "duration": "0:10:54",
+        "comment": ""
+    },
+    "708": {
+        "line": 708,
+        "type": "untimed",
+        "time": "11:00",
+        "date": "07",
+        "month": "Dec",
+        "year": "2021",
+        "comment": "in the bathroom"
+    },
+    "709": {
+        "line": 709,
+        "type": "timed",
+        "time": "09:25",
+        "date": "08",
+        "month": "Dec",
+        "year": "2021",
+        "duration": "0:21:06",
+        "comment": ""
+    },
+    "710": {
+        "line": 710,
+        "type": "timed",
+        "time": "02:35",
+        "date": "09",
+        "month": "Dec",
+        "year": "2021",
+        "duration": "2:25:59",
+        "comment": ""
+    },
+    "711": {
+        "line": 711,
+        "type": "timed",
+        "time": "01:19",
+        "date": "11",
+        "month": "Dec",
+        "year": "2021",
+        "duration": "2:23:48",
+        "comment": ""
+    },
+    "712": {
+        "line": 712,
+        "type": "timed",
+        "time": "01:16",
+        "date": "13",
+        "month": "Dec",
+        "year": "2021",
+        "duration": "2:18:32",
+        "comment": "accidentally jizzed on myself after all that time wanking :("
+    },
+    "713": {
+        "line": 713,
+        "type": "timed",
+        "time": "02:42",
+        "date": "14",
+        "month": "Dec",
+        "year": "2021",
+        "duration": "3:09:40",
+        "comment": "i want to kill myself"
+    },
+    "714": {
+        "line": 714,
+        "type": "timed",
+        "time": "23:31",
+        "date": "14",
+        "month": "Dec",
+        "year": "2021",
+        "duration": "0:18:35",
+        "comment": ""
+    },
+    "715": {
+        "line": 715,
+        "type": "timed",
+        "time": "02:12",
+        "date": "18",
+        "month": "Dec",
+        "year": "2021",
+        "duration": "3:13:40",
+        "comment": "accidentally shot a massive load all over myself AAAAAAAH"
+    },
+    "716": {
+        "line": 716,
+        "type": "timed",
+        "time": "23:51",
+        "date": "18",
+        "month": "Dec",
+        "year": "2021",
+        "duration": "0:18:45",
+        "comment": ""
+    },
+    "717": {
+        "line": 717,
+        "type": "timed",
+        "time": "01:39",
+        "date": "21",
+        "month": "Dec",
+        "year": "2021",
+        "duration": "2:07:52",
+        "comment": ""
+    },
+    "718": {
+        "line": 718,
+        "type": "timed",
+        "time": "01:10",
+        "date": "23",
+        "month": "Dec",
+        "year": "2021",
+        "duration": "2:05:26",
+        "comment": "accidentally nutted on myself"
+    },
+    "719": {
+        "line": 719,
+        "type": "timed",
+        "time": "01:02",
+        "date": "24",
+        "month": "Dec",
+        "year": "2021",
+        "duration": "2:17:21",
+        "comment": ""
+    },
+    "720": {
+        "line": 720,
+        "type": "untimed",
+        "time": "20:50",
+        "date": "24",
+        "month": "Dec",
+        "year": "2021",
+        "comment": "nutted on myself in the bathroom"
+    },
+    "721": {
+        "line": 721,
+        "type": "timed",
+        "time": "01:19",
+        "date": "26",
+        "month": "Dec",
+        "year": "2021",
+        "duration": "2:51:04",
+        "comment": "fountain"
+    },
+    "722": {
+        "line": 722,
+        "type": "timed",
+        "time": "01:18",
+        "date": "27",
+        "month": "Dec",
+        "year": "2021",
+        "duration": "1:50:26",
+        "comment": ""
+    },
+    "723": {
+        "line": 723,
+        "type": "timed",
+        "time": "23:08",
+        "date": "27",
+        "month": "Dec",
+        "year": "2021",
+        "duration": "0:54:36",
+        "comment": "Indigo White is so fucking hot"
+    },
+    "724": {
+        "line": 724,
+        "type": "timed",
+        "time": "23:07",
+        "date": "28",
+        "month": "Dec",
+        "year": "2021",
+        "duration": "0:10:13",
+        "comment": "I had to nut to Indigo White again"
+    },
+    "725": {
+        "line": 725,
+        "type": "timed",
+        "time": "01:12",
+        "date": "30",
+        "month": "Dec",
+        "year": "2021",
+        "duration": "3:17:19",
+        "comment": ""
+    },
+    "726": {
+        "line": 726,
+        "type": "untimed",
+        "time": "10:38",
+        "date": "30",
+        "month": "Dec",
+        "year": "2021",
+        "comment": ""
+    },
+    "727": {
+        "line": 727,
+        "type": "timed",
+        "time": "22:59",
+        "date": "30",
+        "month": "Dec",
+        "year": "2021",
+        "duration": "0:20:06",
+        "comment": ""
+    },
+    "728": {
+        "line": 728,
+        "type": "timed",
+        "time": "03:09",
+        "date": "02",
+        "month": "Jan",
+        "year": "2022",
+        "duration": "5:01:27",
+        "comment": "kill me"
+    },
+    "729": {
+        "line": 729,
+        "type": "timed",
+        "time": "00:20",
+        "date": "04",
+        "month": "Jan",
+        "year": "2022",
+        "duration": "1:57:03",
+        "comment": "accidentally jizzed"
+    },
+    "730": {
+        "line": 730,
+        "type": "timed",
+        "time": "01:11",
+        "date": "04",
+        "month": "Jan",
+        "year": "2022",
+        "duration": "0:41:45",
+        "comment": "that was a good nut"
+    },
+    "731": {
+        "line": 731,
+        "type": "timed",
+        "time": "22:26",
+        "date": "05",
+        "month": "Jan",
+        "year": "2022",
+        "duration": "0:08:56",
+        "comment": "that was a very quick accidental cum"
+    },
+    "732": {
+        "line": 732,
+        "type": "timed",
+        "time": "23:45",
+        "date": "05",
+        "month": "Jan",
+        "year": "2022",
+        "duration": "1:17:27",
+        "comment": "accidentally came AGAIN wtf"
+    },
+    "733": {
+        "line": 733,
+        "type": "untimed",
+        "time": "1:53",
+        "date": "06",
+        "month": "Jan",
+        "year": "2022",
+        "comment": "third time's a charm"
+    },
+    "734": {
+        "line": 734,
+        "type": "untimed",
+        "time": "13:15",
+        "date": "07",
+        "month": "Jan",
+        "year": "2022",
+        "comment": ""
+    },
+    "735": {
+        "line": 735,
+        "type": "timed",
+        "time": "02:10",
+        "date": "08",
+        "month": "Jan",
+        "year": "2022",
+        "duration": "3:01:36",
+        "comment": ""
+    },
+    "736": {
+        "line": 736,
+        "type": "timed",
+        "time": "01:58",
+        "date": "10",
+        "month": "Jan",
+        "year": "2022",
+        "duration": "3:29:51",
+        "comment": ""
+    },
+    "737": {
+        "line": 737,
+        "type": "timed",
+        "time": "00:31",
+        "date": "13",
+        "month": "Jan",
+        "year": "2022",
+        "duration": "2:29:46",
+        "comment": ""
+    },
+    "738": {
+        "line": 738,
+        "type": "timed",
+        "time": "02:31",
+        "date": "15",
+        "month": "Jan",
+        "year": "2022",
+        "duration": "4:12:48",
+        "comment": "end of an era"
+    },
+    "739": {
+        "line": 739,
+        "type": "untimed",
+        "time": "9:18",
+        "date": "15",
+        "month": "Jan",
+        "year": "2022",
+        "comment": ""
+    },
+    "740": {
+        "line": 740,
+        "type": "timed",
+        "time": "23:20",
+        "date": "16",
+        "month": "Jan",
+        "year": "2022",
+        "duration": "0:52:21",
+        "comment": ""
+    },
+    "741": {
+        "line": 741,
+        "type": "timed",
+        "time": "22:56",
+        "date": "18",
+        "month": "Jan",
+        "year": "2022",
+        "duration": "0:35:17",
+        "comment": ""
+    },
+    "742": {
+        "line": 742,
+        "type": "timed",
+        "time": "23:04",
+        "date": "20",
+        "month": "Jan",
+        "year": "2022",
+        "duration": "0:39:08",
+        "comment": "SBU"
+    },
+    "743": {
+        "line": 743,
+        "type": "timed",
+        "time": "23:04",
+        "date": "21",
+        "month": "Jan",
+        "year": "2022",
+        "duration": "0:09:59",
+        "comment": ""
+    },
+    "744": {
+        "line": 744,
+        "type": "timed",
+        "time": "23:27",
+        "date": "23",
+        "month": "Jan",
+        "year": "2022",
+        "duration": "0:50:13",
+        "comment": "i love kimmy granger"
+    },
+    "745": {
+        "line": 745,
+        "type": "untimed",
+        "time": "10:09",
+        "date": "24",
+        "month": "Jan",
+        "year": "2022",
+        "comment": ""
+    },
+    "746": {
+        "line": 746,
+        "type": "timed",
+        "time": "23:49",
+        "date": "25",
+        "month": "Jan",
+        "year": "2022",
+        "duration": "0:48:02",
+        "comment": ""
+    },
+    "747": {
+        "line": 747,
+        "type": "timed",
+        "time": "23:23",
+        "date": "27",
+        "month": "Jan",
+        "year": "2022",
+        "duration": "0:30:14",
+        "comment": ""
+    },
+    "748": {
+        "line": 748,
+        "type": "timed",
+        "time": "23:55",
+        "date": "01",
+        "month": "Feb",
+        "year": "2022",
+        "duration": "1:01:40",
+        "comment": ""
+    },
+    "749": {
+        "line": 749,
+        "type": "timed",
+        "time": "23:37",
+        "date": "06",
+        "month": "Feb",
+        "year": "2022",
+        "duration": "0:19:08",
+        "comment": ""
+    },
+    "750": {
+        "line": 750,
+        "type": "untimed",
+        "time": "9:30",
+        "date": "07",
+        "month": "Feb",
+        "year": "2022",
+        "comment": ""
+    },
+    "751": {
+        "line": 751,
+        "type": "timed",
+        "time": "23:21",
+        "date": "08",
+        "month": "Feb",
+        "year": "2022",
+        "duration": "0:09:19",
+        "comment": "came by just sort of rubbing my knob, like stroking my knob without actually stroking my cock. Felt quite good -- UPDATE, that night while i was trying to sleep i had a burning sensation in my urethra. Don't think  i'll ever jerk off like that again"
+    },
+    "752": {
+        "line": 752,
+        "type": "timed",
+        "time": "22:55",
+        "date": "11",
+        "month": "Feb",
+        "year": "2022",
+        "duration": "0:24:35",
+        "comment": ""
+    },
+    "753": {
+        "line": 753,
+        "type": "untimed",
+        "time": "9:00",
+        "date": "13",
+        "month": "Feb",
+        "year": "2022",
+        "comment": ""
+    },
+    "754": {
+        "line": 754,
+        "type": "timed",
+        "time": "00:11",
+        "date": "15",
+        "month": "Feb",
+        "year": "2022",
+        "duration": "1:12:31",
+        "comment": ""
+    },
+    "755": {
+        "line": 755,
+        "type": "untimed",
+        "time": "9:45",
+        "date": "16",
+        "month": "Feb",
+        "year": "2022",
+        "comment": "in the toilet"
+    },
+    "756": {
+        "line": 756,
+        "type": "timed",
+        "time": "01:56",
+        "date": "18",
+        "month": "Feb",
+        "year": "2022",
+        "duration": "3:26:02",
+        "comment": "relapse"
+    },
+    "757": {
+        "line": 757,
+        "type": "untimed",
+        "time": "9:41",
+        "date": "18",
+        "month": "Feb",
+        "year": "2022",
+        "comment": ""
+    },
+    "758": {
+        "line": 758,
+        "type": "timed",
+        "time": "03:08",
+        "date": "20",
+        "month": "Feb",
+        "year": "2022",
+        "duration": "4:59:39",
+        "comment": ""
+    },
+    "759": {
+        "line": 759,
+        "type": "timed",
+        "time": "23:02",
+        "date": "20",
+        "month": "Feb",
+        "year": "2022",
+        "duration": "0:22:23",
+        "comment": ""
+    },
+    "760": {
+        "line": 760,
+        "type": "timed",
+        "time": "03:34",
+        "date": "22",
+        "month": "Feb",
+        "year": "2022",
+        "duration": "4:47:35",
+        "comment": ""
+    },
+    "761": {
+        "line": 761,
+        "type": "timed",
+        "time": "23:55",
+        "date": "22",
+        "month": "Feb",
+        "year": "2022",
+        "duration": "0:57:32",
+        "comment": ""
+    },
+    "762": {
+        "line": 762,
+        "type": "timed",
+        "time": "00:29",
+        "date": "25",
+        "month": "Feb",
+        "year": "2022",
+        "duration": "1:21:53",
+        "comment": "accidentally jizzed all over my boxers"
+    },
+    "763": {
+        "line": 763,
+        "type": "timed",
+        "time": "22:39",
+        "date": "25",
+        "month": "Feb",
+        "year": "2022",
+        "duration": "0:27:33",
+        "comment": ""
+    },
+    "764": {
+        "line": 764,
+        "type": "timed",
+        "time": "02:08",
+        "date": "01",
+        "month": "Mar",
+        "year": "2022",
+        "duration": "3:51:08",
+        "comment": ""
+    },
+    "765": {
+        "line": 765,
+        "type": "timed",
+        "time": "22:49",
+        "date": "01",
+        "month": "Mar",
+        "year": "2022",
+        "duration": "0:13:21",
+        "comment": ""
+    },
+    "766": {
+        "line": 766,
+        "type": "timed",
+        "time": "23:00",
+        "date": "03",
+        "month": "Mar",
+        "year": "2022",
+        "duration": "0:25:11",
+        "comment": ""
+    },
+    "767": {
+        "line": 767,
+        "type": "timed",
+        "time": "01:26",
+        "date": "05",
+        "month": "Mar",
+        "year": "2022",
+        "duration": "1:44:19",
+        "comment": "accidentally jizzed like a retard"
+    },
+    "768": {
+        "line": 768,
+        "type": "timed",
+        "time": "23:31",
+        "date": "05",
+        "month": "Mar",
+        "year": "2022",
+        "duration": "0:46:11",
+        "comment": "indigo white"
+    },
+    "769": {
+        "line": 769,
+        "type": "untimed",
+        "time": "10:05",
+        "date": "07",
+        "month": "Mar",
+        "year": "2022",
+        "comment": "very horny so i went to the toilet ;)"
+    },
+    "770": {
+        "line": 770,
+        "type": "timed",
+        "time": "01:16",
+        "date": "09",
+        "month": "Mar",
+        "year": "2022",
+        "duration": "2:24:10",
+        "comment": ""
+    },
+    "771": {
+        "line": 771,
+        "type": "timed",
+        "time": "23:33",
+        "date": "09",
+        "month": "Mar",
+        "year": "2022",
+        "duration": "0:17:38",
+        "comment": ""
+    },
+    "772": {
+        "line": 772,
+        "type": "timed",
+        "time": "00:12",
+        "date": "11",
+        "month": "Mar",
+        "year": "2022",
+        "duration": "1:18:19",
+        "comment": "accidental cum AAAAAH"
+    },
+    "773": {
+        "line": 773,
+        "type": "untimed",
+        "time": "10:50",
+        "date": "11",
+        "month": "Mar",
+        "year": "2022",
+        "comment": ""
+    },
+    "774": {
+        "line": 774,
+        "type": "timed",
+        "time": "23:57",
+        "date": "11",
+        "month": "Mar",
+        "year": "2022",
+        "duration": "1:30:00",
+        "comment": "Duration is an estimate because i didn't start the timer. Probably closer to 2 hours"
+    },
+    "775": {
+        "line": 775,
+        "type": "timed",
+        "time": "00:22",
+        "date": "14",
+        "month": "Mar",
+        "year": "2022",
+        "duration": "1:41:01",
+        "comment": ""
+    },
+    "776": {
+        "line": 776,
+        "type": "timed",
+        "time": "02:33",
+        "date": "16",
+        "month": "Mar",
+        "year": "2022",
+        "duration": "4:26:17",
+        "comment": "put a bullet in my brain"
+    },
+    "777": {
+        "line": 777,
+        "type": "timed",
+        "time": "02:26",
+        "date": "18",
+        "month": "Mar",
+        "year": "2022",
+        "duration": "3:12:53",
+        "comment": ""
+    },
+    "778": {
+        "line": 778,
+        "type": "timed",
+        "time": "01:47",
+        "date": "20",
+        "month": "Mar",
+        "year": "2022",
+        "duration": "3:07:41",
+        "comment": ""
+    },
+    "779": {
+        "line": 779,
+        "type": "untimed",
+        "time": "8:46",
+        "date": "24",
+        "month": "Mar",
+        "year": "2022",
+        "comment": "No porn. Porn will not be used until further notice."
+    },
+    "780": {
+        "line": 780,
+        "type": "untimed",
+        "time": "9:34",
+        "date": "31",
+        "month": "Mar",
+        "year": "2022",
+        "comment": "Huge load"
+    },
+    "781": {
+        "line": 781,
+        "type": "untimed",
+        "time": "8:55",
+        "date": "01",
+        "month": "Apr",
+        "year": "2022",
+        "comment": "Jerked off to Miley Cyrus' ass, but that doesn't count as porn"
+    },
+    "782": {
+        "line": 782,
+        "type": "untimed",
+        "time": "10:30",
+        "date": "07",
+        "month": "Apr",
+        "year": "2022",
+        "comment": "That was a huge load"
+    },
+    "783": {
+        "line": 783,
+        "type": "untimed",
+        "time": "9:20",
+        "date": "11",
+        "month": "Apr",
+        "year": "2022",
+        "comment": "another huge load"
+    },
+    "784": {
+        "line": 784,
+        "type": "timed",
+        "time": "08:52",
+        "date": "13",
+        "month": "Apr",
+        "year": "2022",
+        "duration": "0:08:06",
+        "comment": "I watched porn"
+    },
+    "785": {
+        "line": 785,
+        "type": "untimed",
+        "time": "19:30",
+        "date": "13",
+        "month": "Apr",
+        "year": "2022",
+        "comment": "Jerked off in the shower. That's my second nut today :("
+    },
+    "786": {
+        "line": 786,
+        "type": "timed",
+        "time": "09:31",
+        "date": "14",
+        "month": "Apr",
+        "year": "2022",
+        "duration": "0:08:19",
+        "comment": ""
+    }
+}
